@@ -1,0 +1,9911 @@
+[
+ {
+   "Surname": "ATKINSON",
+   "First Name": "EMMA CHLOE",
+   "Admin": 13915,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/06/25",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BUTHELEZI",
+   "First Name": "MNOTHO LESEGO CORNELIUS",
+   "Admin": 13992,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/07/07",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DURKIN",
+   "First Name": "JORDAN",
+   "Admin": 13887,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/02/21",
+   "House": "Delport"
+ },
+ {
+   "Surname": "FOURIE",
+   "First Name": "CADENCE LEE",
+   "Admin": 13951,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/01/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GOVENDER",
+   "First Name": "HANNAH SHILOH",
+   "Admin": 13966,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/06/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GOWER",
+   "First Name": "VAUGHN CONNER",
+   "Admin": 13828,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/10/01",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GREYVENSTEIN",
+   "First Name": "ANGELINA MAUREEN",
+   "Admin": 13901,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2006/05/17",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GWALA",
+   "First Name": "NOLUTHANDO THOBEKILE",
+   "Admin": 13854,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/04/16",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "HALLEY",
+   "First Name": "KIARA SKYE",
+   "Admin": 13910,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/07/09",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "HAWKINS",
+   "First Name": "KIERAN LYALL",
+   "Admin": 13938,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/11/23",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HUNTLEY",
+   "First Name": "CHRISTIAN ALLAN JAMES",
+   "Admin": 13812,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/04/25",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "KHUMALO",
+   "First Name": "LUBANZI ASTHABE",
+   "Admin": 13900,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/10/20",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "LENDON",
+   "First Name": "ROXANNE DANA",
+   "Admin": 13947,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/06/27",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MABASO",
+   "First Name": "LIHLITHEMBA KHWEZI QOPHELO",
+   "Admin": 13986,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/11/10",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MAJOLA",
+   "First Name": "SIHAWUSENKOSI ALUSOZE",
+   "Admin": 13919,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2006/11/19",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MAZIBUKO",
+   "First Name": "THEMBELIHLE",
+   "Admin": 14029,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/09/25",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MC MILLAN",
+   "First Name": "AKIRA",
+   "Admin": 13840,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/05/18",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MSOMI",
+   "First Name": "MANELISI ANESU",
+   "Admin": 14034,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/11/19",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NGUBANE",
+   "First Name": "LETHOKUHLE PHILASANDE",
+   "Admin": 13912,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2008/06/17",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NTSHANGASE",
+   "First Name": "IYANA",
+   "Admin": 13890,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2008/05/01",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "RICH",
+   "First Name": "DYLAN BRYAN",
+   "Admin": 13996,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/03/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SPIES",
+   "First Name": "LEEVYN-TYLAH",
+   "Admin": 13878,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/06/09",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "TAILALL",
+   "First Name": "XANDER MATTHIAS",
+   "Admin": 14032,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/12/07",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "TAYLOR",
+   "First Name": "ASHLEE SAVANNAH",
+   "Admin": 13877,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/04/25",
+   "House": "Delport"
+ },
+ {
+   "Surname": "THYSSEN",
+   "First Name": "KEAGAN MICHAEL",
+   "Admin": 13862,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/07/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "TSOTETSI",
+   "First Name": "MOTLOKOA",
+   "Admin": 13879,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/09/25",
+   "House": "Delport"
+ },
+ {
+   "Surname": "VUKEKA",
+   "First Name": "ANDISWA MPILONHLE",
+   "Admin": 13903,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/09/11",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WEBBER",
+   "First Name": "HADLEY REBECCA",
+   "Admin": 13870,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2007/11/07",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "YUILL",
+   "First Name": "JOSHUA WILLIAM",
+   "Admin": 13965,
+   "Grade": 8,
+   "Reg": "AL",
+   "DOB": "2006/11/27",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ATKINS",
+   "First Name": "CHLOE JESSICA",
+   "Admin": 13926,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/09/04",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BALL",
+   "First Name": "LUKE ROBERT",
+   "Admin": 13940,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2008/01/10",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BOTHA",
+   "First Name": "TANA PENNELLS",
+   "Admin": 13856,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/11/28",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BUTHELEZI",
+   "First Name": "LWANDILE",
+   "Admin": 13834,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/05/23",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "COUTTS",
+   "First Name": "JESSICA DAYLE BURDETT",
+   "Admin": 13920,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/08/07",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DELPORT",
+   "First Name": "KAYLEY CARMEN",
+   "Admin": 13944,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2008/01/18",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GOVENDER",
+   "First Name": "DUNCAN LEE",
+   "Admin": 13837,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2006/05/12",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "GRIESSEL",
+   "First Name": "MICHAEL CHASE",
+   "Admin": 13950,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/07/10",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "HADEBE",
+   "First Name": "AYATHOKOZA",
+   "Admin": 13888,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/09/19",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KOTRAS",
+   "First Name": "GEORGINA",
+   "Admin": 14063,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2006/02/28",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "LUBBE",
+   "First Name": "ZANDER",
+   "Admin": 14064,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/04/01",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MABASO",
+   "First Name": "SANDI",
+   "Admin": 13998,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2006/12/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MADIKIZELA",
+   "First Name": "ANDILE BRIAN",
+   "Admin": 13872,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/02/14",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MADLALA",
+   "First Name": "ANELISA KHALIPHA",
+   "Admin": 14021,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2008/01/02",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MBILI",
+   "First Name": "BONGEKA NOKUKHANYA INNOCENTIA",
+   "Admin": 13960,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/01/13",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MHLANGA",
+   "First Name": "SIPHOKAZI NOKWAZI",
+   "Admin": 13868,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/02/07",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NDLOVU",
+   "First Name": "AYANDA NOLWAZI",
+   "Admin": 13859,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2008/01/13",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NDLOVU",
+   "First Name": "HLANGANANI SIBONGOKUHLE MHOLI",
+   "Admin": 14057,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2008/02/25",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NEL",
+   "First Name": "KARA LYNN",
+   "Admin": 13803,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/08/23",
+   "House": "Delport"
+ },
+ {
+   "Surname": "PAKKIRI",
+   "First Name": "JAZELLE CHANTE",
+   "Admin": 14043,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2008/03/08",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "PARKER",
+   "First Name": "MITCHELL LEE",
+   "Admin": 14051,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2006/11/28",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SCHWARZ",
+   "First Name": "CARLA JESSICA",
+   "Admin": 13800,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/05/07",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SCHWARZ",
+   "First Name": "MAX",
+   "Admin": 13799,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2006/03/02",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SINGH",
+   "First Name": "ARYA",
+   "Admin": 13883,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/09/11",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SONDEZI",
+   "First Name": "MATHAPELO",
+   "Admin": 13989,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2007/04/17",
+   "House": "Delport"
+ },
+ {
+   "Surname": "STRYDOM",
+   "First Name": "JADEN",
+   "Admin": 14061,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2006/07/01",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "VILAKAZI",
+   "First Name": "NTHABSENG NOMBULELO",
+   "Admin": 13963,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2008/02/12",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "XABA",
+   "First Name": "OLWETHU AZANIA",
+   "Admin": 14033,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2008/03/20",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "ZUNGU",
+   "First Name": "UNATHI AYABONGA",
+   "Admin": 14038,
+   "Grade": 8,
+   "Reg": "CV",
+   "DOB": "2008/03/26",
+   "House": "Delport"
+ },
+ {
+   "Surname": "CALMEYER",
+   "First Name": "JORDAN ALAN",
+   "Admin": 14015,
+   "Grade": 8,
+   "Reg": "EN",
+   "DOB": "2006/09/10",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "ZOLANI",
+   "Admin": 14075,
+   "Grade": 8,
+   "Reg": "EN",
+   "DOB": "2006/09/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DUBE",
+   "First Name": "ALLEN MGEINI",
+   "Admin": 14004,
+   "Grade": 8,
+   "Reg": "EN",
+   "DOB": "2006/01/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "FOURIE",
+   "First Name": "BLAKE LEON",
+   "Admin": 14067,
+   "Grade": 8,
+   "Reg": "EN",
+   "DOB": "2006/04/21",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GRAHAM",
+   "First Name": "ETHAN ROBERT",
+   "Admin": 13949,
+   "Grade": 8,
+   "Reg": "EN",
+   "DOB": "2007/10/17",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HUDSON",
+   "First Name": "DANIEL-RAYNE JOSEPH",
+   "Admin": 14001,
+   "Grade": 8,
+   "Reg": "EN",
+   "DOB": "2005/08/03",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "LYLE",
+   "First Name": "AMBER BROOKLYN",
+   "Admin": 13867,
+   "Grade": 8,
+   "Reg": "EN",
+   "DOB": "2004/12/11",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MPITI",
+   "First Name": "THABO",
+   "Admin": 14000,
+   "Grade": 8,
+   "Reg": "EN",
+   "DOB": "2007/05/22",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NDWANDWE",
+   "First Name": "BUHLEBETFU THATOLARONA",
+   "Admin": 14013,
+   "Grade": 8,
+   "Reg": "EN",
+   "DOB": "2006/07/26",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NZIMANDE",
+   "First Name": "ANDILE",
+   "Admin": 14002,
+   "Grade": 8,
+   "Reg": "EN",
+   "DOB": "2006/11/16",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "TASKES",
+   "First Name": "TRENT STEPHEN",
+   "Admin": 14007,
+   "Grade": 8,
+   "Reg": "EN",
+   "DOB": "2006/11/20",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BENTLEY-OSBORN",
+   "First Name": "RACHAEL ASHLEY",
+   "Admin": 13904,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2007/02/17",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BOTHMA",
+   "First Name": "JAYDEN LEE",
+   "Admin": 13819,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2007/08/24",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BUSANE",
+   "First Name": "NQUBEKO APHILE",
+   "Admin": 13844,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2006/07/15",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CHETTY",
+   "First Name": "LEA ALEXUS",
+   "Admin": 13869,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2006/06/12",
+   "House": "Delport"
+ },
+ {
+   "Surname": "CHINDODAKUFA",
+   "First Name": "TANAKA",
+   "Admin": 13827,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2008/05/07",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "COLLINGWOOD",
+   "First Name": "ARIYIN CARON",
+   "Admin": 14044,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2007/02/01",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DARBY",
+   "First Name": "MATHEW CHARLES",
+   "Admin": 13836,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2007/06/18",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "LINDO",
+   "Admin": 13851,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2006/10/16",
+   "House": "Delport"
+ },
+ {
+   "Surname": "DZIKAMUNHENGA",
+   "First Name": "NIGEL JEREMIAH",
+   "Admin": 13849,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2006/10/02",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "EGAN",
+   "First Name": "AIDAN PATRICK",
+   "Admin": 13816,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2007/04/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "GOBA",
+   "First Name": "S'NALO",
+   "Admin": 14039,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2008/05/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "HADEBE",
+   "First Name": "ANATHI",
+   "Admin": 13928,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2007/12/10",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "HEDIN",
+   "First Name": "BLAKE",
+   "Admin": 13956,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2006/08/01",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "LUTHULI",
+   "First Name": "LWANDISO STHEMBISO MATHULIAMAHLE",
+   "Admin": 13957,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2008/05/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "LUTHULI",
+   "First Name": "MASANDE LUTHANDO",
+   "Admin": 13905,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2008/05/28",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MHLONGO",
+   "First Name": "AYANDISWA ALFRED JUNIOR",
+   "Admin": 13906,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2006/03/22",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MORRIS",
+   "First Name": "CAMERON LEVY",
+   "Admin": 14036,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2006/09/21",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NAIDOO",
+   "First Name": "TROY SAM",
+   "Admin": 14060,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2008/01/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NDABA",
+   "First Name": "APHIWE",
+   "Admin": 13811,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2006/10/17",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NELSON",
+   "First Name": "KEAGAN DARREN",
+   "Admin": 14047,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2007/04/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "OBRIEN",
+   "First Name": "ERYN ELIZABETH",
+   "Admin": 13995,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2006/12/20",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "RADYI",
+   "First Name": "MANELISI",
+   "Admin": 13985,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2006/09/11",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SHEZI",
+   "First Name": "THINGOLUHLE THAPELO",
+   "Admin": 13964,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2007/07/16",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SITHOLE",
+   "First Name": "CEBOLIHLE NOLWAZI",
+   "Admin": 14048,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2008/02/29",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "THOMPSON",
+   "First Name": "KALEB ADAM",
+   "Admin": 13984,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2007/11/06",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "VAN DER MERWE",
+   "First Name": "EMMA LOUISE",
+   "Admin": 13805,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2007/03/09",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "VEZI",
+   "First Name": "BAYANDA",
+   "Admin": 13953,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2007/06/03",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "ZINUME",
+   "First Name": "NHLAKANIPHO WYATT",
+   "Admin": 13848,
+   "Grade": 8,
+   "Reg": "GL",
+   "DOB": "2007/01/02",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "ANTHONY",
+   "First Name": "LIAM AARON",
+   "Admin": 13897,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/01/17",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BANGO",
+   "First Name": "LUNATHI",
+   "Admin": 14056,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/07/31",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BARCLAY",
+   "First Name": "CADENCE",
+   "Admin": 13792,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2008/01/24",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BEECH",
+   "First Name": "ERYN JOY",
+   "Admin": 13798,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/03/30",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BLOSE",
+   "First Name": "ASIPHILE KWENZOKUHLE",
+   "Admin": 13896,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/08/30",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BUTHELEZI",
+   "First Name": "ESIHLE",
+   "Admin": 13982,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2006/06/12",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "CHETTY",
+   "First Name": "ABIGAIL ARIELLA",
+   "Admin": 13865,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2008/05/26",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CHIYA",
+   "First Name": "LINDOKUHLE",
+   "Admin": 13843,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2008/05/21",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "COOPER",
+   "First Name": "DANIELLE MEGAN",
+   "Admin": 13948,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/05/30",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DELPORT",
+   "First Name": "JADE DERRYN",
+   "Admin": 13864,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/04/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "FANNER",
+   "First Name": "TEAH JADE",
+   "Admin": 14054,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/10/30",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "GAGIANO",
+   "First Name": "DAYNA FAYE",
+   "Admin": 13939,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/09/30",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GOVENDER",
+   "First Name": "TIA SIAN",
+   "Admin": 14024,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/06/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HERBST",
+   "First Name": "GABRIELLA ANN",
+   "Admin": 13922,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/06/13",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KISTENSAMY",
+   "First Name": "CAITLYN",
+   "Admin": 13875,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/08/24",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "LAMPRECHT",
+   "First Name": "WESSEL SAVANN",
+   "Admin": 13971,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/03/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MANTASHE",
+   "First Name": "LERATO KHANYA",
+   "Admin": 13821,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/02/19",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "NTABISO KHOLEKA",
+   "Admin": 13994,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2008/06/02",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MNCUBE",
+   "First Name": "LISAKHANYA",
+   "Admin": 13871,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/09/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MOODLEY",
+   "First Name": "YUKTHA",
+   "Admin": 13907,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/11/12",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MZOBE",
+   "First Name": "KHANYA SIYANQOBA KHULEKANI",
+   "Admin": 13942,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2008/02/04",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NGUBANE",
+   "First Name": "SESANDILE SIMTHANDILE",
+   "Admin": 13925,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/06/30",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NKWANYANA",
+   "First Name": "THATO LEIGH",
+   "Admin": 14083,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/08/31",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "PETERSEN",
+   "First Name": "TAYLA JEAN",
+   "Admin": 13993,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/07/16",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "RAMHURRACK",
+   "First Name": "NIDHI",
+   "Admin": 13895,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/11/11",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "REPSOLD",
+   "First Name": "ASHLEY NICOLE",
+   "Admin": 14052,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/11/07",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "RIGGIEN",
+   "First Name": "LEAH CHELSEA",
+   "Admin": 13931,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/09/25",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SETARO",
+   "First Name": "TROY",
+   "Admin": 14055,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/07/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SISHI",
+   "First Name": "THANDOLWETHU",
+   "Admin": 13932,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/10/25",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "VERSTER",
+   "First Name": "FAYE MARIE",
+   "Admin": 13831,
+   "Grade": 8,
+   "Reg": "GS",
+   "DOB": "2007/02/14",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "AINHIRN",
+   "First Name": "ETHAN DAMIAN",
+   "Admin": 13929,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/09/02",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "ANGUS",
+   "First Name": "JULIA ALISON",
+   "Admin": 13858,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2006/07/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BERNDT",
+   "First Name": "SAMANTHA CASSIDY",
+   "Admin": 13908,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/03/19",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BROWN",
+   "First Name": "KELSEY MAE",
+   "Admin": 13796,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/01/18",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BURWOOD",
+   "First Name": "JESSICA LEIGH",
+   "Admin": 13924,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/04/23",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "CHABANT",
+   "First Name": "HAYLEY DENISE",
+   "Admin": 13791,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/10/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DEL GRANDE",
+   "First Name": "FRANCESCA SOPHIE",
+   "Admin": 13802,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/03/30",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DONKIN",
+   "First Name": "LEAH JANE",
+   "Admin": 14066,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/06/04",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GERICKE",
+   "First Name": "JADE KELLY",
+   "Admin": 13902,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/05/24",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GOPAL",
+   "First Name": "SHAYLIZE",
+   "Admin": 14040,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/08/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HLOPHE",
+   "First Name": "ONAMANDLA SINAYE",
+   "Admin": 13807,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/07/25",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HUNTER",
+   "First Name": "MICAELLA ANN",
+   "Admin": 13874,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/06/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KIDGELL",
+   "First Name": "JORDAN LEAH",
+   "Admin": 13881,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/03/07",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KING",
+   "First Name": "HANNAH LALAINA",
+   "Admin": 13857,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/05/02",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KLIJNSTRA",
+   "First Name": "LOLA GRACE",
+   "Admin": 13846,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/08/20",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MADIKIZELA",
+   "First Name": "MVELO ZENANDE",
+   "Admin": 14049,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/02/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MARAIS",
+   "First Name": "CATHERINE",
+   "Admin": 13790,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/01/10",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MARAIS",
+   "First Name": "CHLOE ABIGAIL",
+   "Admin": 14065,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/05/14",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MCFARLANE",
+   "First Name": "MEGAN JADE",
+   "Admin": 13820,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/09/19",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MOMOH",
+   "First Name": "PAUL CHIZURUM",
+   "Admin": 13935,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2008/05/27",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NDUKU",
+   "First Name": "LWANDILE KUHLEKONKE",
+   "Admin": 13894,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/08/15",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NGCAMU",
+   "First Name": "KHETHELO HLOBISILE",
+   "Admin": 13918,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2008/03/29",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NGIDI",
+   "First Name": "AYANDA",
+   "Admin": 13853,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2005/05/26",
+   "House": "Delport"
+ },
+ {
+   "Surname": "OLIVIER",
+   "First Name": "SHANNYN RAE",
+   "Admin": 13823,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/09/05",
+   "House": "Delport"
+ },
+ {
+   "Surname": "RAMBARUTH",
+   "First Name": "SAHIL",
+   "Admin": 13824,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/01/23",
+   "House": "Delport"
+ },
+ {
+   "Surname": "REID",
+   "First Name": "EMMA-LEE",
+   "Admin": 13818,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/06/21",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "TE BRUGGE",
+   "First Name": "JOE RYAN",
+   "Admin": 13927,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/10/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "TRAINI",
+   "First Name": "ISABELLA JEAN",
+   "Admin": 13793,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/02/26",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "VAN DER WESTHUIZEN",
+   "First Name": "VANESSA LEIGH",
+   "Admin": 13855,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/04/10",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "VAN NIEKERK",
+   "First Name": "LUKE TREVOR DAVID",
+   "Admin": 13886,
+   "Grade": 8,
+   "Reg": "JU",
+   "DOB": "2007/01/30",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "ASQUITH",
+   "First Name": "WILLIAM JOHN CHARLES",
+   "Admin": 13850,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/10/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CAMERON",
+   "First Name": "JULIA ELIZABETH",
+   "Admin": 13941,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/11/25",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "COETZEE",
+   "First Name": "KYLIE MELINDA",
+   "Admin": 13911,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/02/01",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "OWETHU ZAMASWAZI",
+   "Admin": 13797,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2006/12/13",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GIORKO",
+   "First Name": "ZOFIA BOZENA",
+   "Admin": 14058,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/11/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HENNING",
+   "First Name": "TATUM",
+   "Admin": 13914,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/03/31",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HLONGWA",
+   "First Name": "ZIPHIWO ALONDWE",
+   "Admin": 13946,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2008/04/02",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HOAREAU",
+   "First Name": "CHEYENNE KIMBERLY",
+   "Admin": 13833,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/08/28",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "JENKINSON",
+   "First Name": "KAYLA",
+   "Admin": 13860,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/02/23",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "KHANYILE",
+   "First Name": "SIMPHIWE",
+   "Admin": 13980,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/01/21",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KUMALO",
+   "First Name": "NJABULO",
+   "Admin": 13814,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/10/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "LE ROUX",
+   "First Name": "CUAN BRUCE",
+   "Admin": 13808,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/12/06",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MAJOZI",
+   "First Name": "APHIWE AWANDE",
+   "Admin": 13804,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2008/06/01",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MHLANGA",
+   "First Name": "SPHESIHLE",
+   "Admin": 14031,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/07/06",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MOONSAMY",
+   "First Name": "BRENTON LUKE",
+   "Admin": 13809,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/08/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MSOMI",
+   "First Name": "SINESIPHO",
+   "Admin": 13933,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/01/11",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MTHETHWA",
+   "First Name": "WAZOKUHLE",
+   "Admin": 13899,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/12/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MTOLO",
+   "First Name": "NOMHLANGANO SINOTHANDO ZAMATOLO",
+   "Admin": 13795,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/07/01",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NEVILLE",
+   "First Name": "MADISON LEE",
+   "Admin": 13847,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/06/25",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "NANDI CANDICE",
+   "Admin": 13893,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2006/04/04",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NGIDI",
+   "First Name": "OBEDINGWA LIYEMA",
+   "Admin": 13830,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/10/23",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NICHOLAS",
+   "First Name": "TATUM ROSE",
+   "Admin": 13817,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/09/03",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NTOMBELA",
+   "First Name": "BAYANDA LUKHANYO",
+   "Admin": 13839,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2006/12/13",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "QUVANE",
+   "First Name": "ANOVUYO",
+   "Admin": 13884,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/06/10",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "REDDY",
+   "First Name": "JADIAL",
+   "Admin": 13913,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/06/11",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "RILEY",
+   "First Name": "LOGAN SETH",
+   "Admin": 13789,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/05/20",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SINGH",
+   "First Name": "SANJLI",
+   "Admin": 13842,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/01/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SOOBRAMONEY",
+   "First Name": "FABIAN LEE",
+   "Admin": 13835,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/12/13",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ZINN",
+   "First Name": "JENNIFER EDEN",
+   "Admin": 13861,
+   "Grade": 8,
+   "Reg": "MA",
+   "DOB": "2007/01/31",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "SNOXOLO ZIME",
+   "Admin": 13751,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2006/05/20",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GCWABAZA",
+   "First Name": "NTANDO",
+   "Admin": 13752,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2005/05/29",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HEERAMAN",
+   "First Name": "AKHIL",
+   "Admin": 13617,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2005/08/10",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "HLOPHE",
+   "First Name": "KHULANI SIYAMTHANDA",
+   "Admin": 13930,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/01/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KHUMALO",
+   "First Name": "SLINDILE NONKULULEKO",
+   "Admin": 13813,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/04/20",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KHUMALO",
+   "First Name": "ZAKHELE",
+   "Admin": 13943,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2006/06/06",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "LUTHULI",
+   "First Name": "THUBELIHLE",
+   "Admin": 14087,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2006/05/06",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "LYLE",
+   "First Name": "ASHTON BRETT MORTON",
+   "Admin": 13987,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2006/12/08",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MAHLANGU",
+   "First Name": "NSIKELELO",
+   "Admin": 13936,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2006/08/30",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MAKOBA",
+   "First Name": "SIBUSISO BLESSING",
+   "Admin": 13945,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/10/18",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MAPHANGA",
+   "First Name": "SOLWAZI MFUNDO",
+   "Admin": 13569,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2005/10/24",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MHLONGO",
+   "First Name": "LUTHANDO",
+   "Admin": 14062,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2006/01/08",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MNCUBE",
+   "First Name": "LANGELIHLE SAKHILE",
+   "Admin": 14071,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2005/01/29",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MUNGWE",
+   "First Name": "LWAZI",
+   "Admin": 14016,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2006/07/22",
+   "House": ""
+ },
+ {
+   "Surname": "NDLOVU",
+   "First Name": "SANELISIWE",
+   "Admin": 13852,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/10/27",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "AMAHLE",
+   "Admin": 14017,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/06/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "THABILE NANDI",
+   "Admin": 14025,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2005/03/23",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NTULI",
+   "First Name": "LUNGELO MLUNGISI",
+   "Admin": 13978,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2006/04/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NYAWO",
+   "First Name": "APHELELE",
+   "Admin": 13981,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/12/13",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ROBERTS",
+   "First Name": "TYELYN LEE",
+   "Admin": 13841,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/12/13",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SARJOU",
+   "First Name": "AYANDA CYRIL JOSHUA",
+   "Admin": 13958,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/09/05",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SHABALALA",
+   "First Name": "SPHAMANDLA NDUMISO",
+   "Admin": 14018,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2006/04/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SPERO",
+   "First Name": "BROOKE",
+   "Admin": 13990,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/04/29",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SPOWART",
+   "First Name": "ERIN JOSIE",
+   "Admin": 13954,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/02/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "TERBLANCHE",
+   "First Name": "AMBER KELLY",
+   "Admin": 14019,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/03/19",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "THAFENI",
+   "First Name": "KAMVALAKHE",
+   "Admin": 13826,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/02/05",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WHITBY",
+   "First Name": "AYEDAN RYLEE",
+   "Admin": 13825,
+   "Grade": 8,
+   "Reg": "TG",
+   "DOB": "2007/01/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "CALITZ",
+   "First Name": "CAMERON",
+   "Admin": 13999,
+   "Grade": 8,
+   "Reg": "TT",
+   "DOB": "2007/01/18",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DUKE",
+   "First Name": "KELLY MELISSA",
+   "Admin": 13710,
+   "Grade": 8,
+   "Reg": "TT",
+   "DOB": "2006/09/04",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HALL",
+   "First Name": "JESSICA EMMA",
+   "Admin": 14014,
+   "Grade": 8,
+   "Reg": "TT",
+   "DOB": "2007/04/10",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "HENNING",
+   "First Name": "SASKIA",
+   "Admin": 14009,
+   "Grade": 8,
+   "Reg": "TT",
+   "DOB": "2007/03/31",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MACPHERSON",
+   "First Name": "JODI LEE",
+   "Admin": 14012,
+   "Grade": 8,
+   "Reg": "TT",
+   "DOB": "2007/07/16",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MFEKA",
+   "First Name": "PRETTY ANELA LIFA",
+   "Admin": 14068,
+   "Grade": 8,
+   "Reg": "TT",
+   "DOB": "2007/01/27",
+   "House": "Delport"
+ },
+ {
+   "Surname": "PRIOR",
+   "First Name": "JORDAN WAYNE",
+   "Admin": 14006,
+   "Grade": 8,
+   "Reg": "TT",
+   "DOB": "2007/07/24",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "PRYCE LEWIS",
+   "First Name": "ISLAY GRACE",
+   "Admin": 14008,
+   "Grade": 8,
+   "Reg": "TT",
+   "DOB": "2007/07/02",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "REAY",
+   "First Name": "ROSS IAN",
+   "Admin": 14010,
+   "Grade": 8,
+   "Reg": "TT",
+   "DOB": "2007/05/08",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SCOTT",
+   "First Name": "TAITUM ANN-LENE",
+   "Admin": 14011,
+   "Grade": 8,
+   "Reg": "TT",
+   "DOB": "2007/05/18",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "TRUBLET-DE-NERMONT",
+   "First Name": "MATTHEW",
+   "Admin": 14069,
+   "Grade": 8,
+   "Reg": "TT",
+   "DOB": "2007/01/13",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WINGROVE",
+   "First Name": "ZAINAB",
+   "Admin": 14005,
+   "Grade": 8,
+   "Reg": "TT",
+   "DOB": "2006/03/24",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BARTHUS",
+   "First Name": "DANIEL ARTHUR",
+   "Admin": 13880,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2008/02/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BELL",
+   "First Name": "MADISON JORDAN",
+   "Admin": 14088,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/10/02",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BEUKES",
+   "First Name": "JOSHUA GRANT",
+   "Admin": 14059,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2006/02/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BOTHA",
+   "First Name": "KIARA TIFFANY",
+   "Admin": 13898,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/01/02",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DEOCHAND",
+   "First Name": "YADHAAV",
+   "Admin": 13917,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/07/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "EVANS",
+   "First Name": "TANNER TY",
+   "Admin": 13815,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/09/02",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GILD",
+   "First Name": "TRISTAN",
+   "Admin": 13959,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/03/06",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "HERBST",
+   "First Name": "BLAINE PETER",
+   "Admin": 13923,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/06/13",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "JALI",
+   "First Name": "LETHUKUTHULA SABELO",
+   "Admin": 13921,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/01/07",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KHUMALO",
+   "First Name": "ANATHI ENZOKUHLE",
+   "Admin": 13882,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/02/28",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "LEWIS",
+   "First Name": "SARAH-LEE MICAYLA",
+   "Admin": 14026,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/10/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MAKANYA",
+   "First Name": "AYABONGITHEMBA",
+   "Admin": 13810,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2008/06/13",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MATTHEWS",
+   "First Name": "KINGSLEY JAMES",
+   "Admin": 13937,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2006/12/15",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MCHUNU",
+   "First Name": "ANATHI NONDALO",
+   "Admin": 13952,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/05/15",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MNGOMA",
+   "First Name": "NKOSINGIPHILE PHILASANDE",
+   "Admin": 13838,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/10/13",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MOLOI",
+   "First Name": "TSEPO SBONGAKONKE",
+   "Admin": 14030,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/09/04",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MUNANAIRI",
+   "First Name": "TAVONGA TREVOR",
+   "Admin": 13885,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/09/24",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NENE",
+   "First Name": "APHELELE CLEARANCE",
+   "Admin": 13991,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/06/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NGOBESE",
+   "First Name": "SISANDA ZIPHO",
+   "Admin": 13934,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/10/19",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NSELE",
+   "First Name": "SIPHOKAZI",
+   "Admin": 13916,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/07/31",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NTOMBELA",
+   "First Name": "ANDILE",
+   "Admin": 14089,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/08/03",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "RAMNATH",
+   "First Name": "BRAYDEN",
+   "Admin": 13892,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/06/05",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "RASHKUMAR",
+   "First Name": "JEANE KIERAN",
+   "Admin": 14020,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/04/15",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SHANDU",
+   "First Name": "ASANDA KWANELE",
+   "Admin": 14073,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2008/04/23",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SHANGASE",
+   "First Name": "OKUHLE",
+   "Admin": 13801,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/01/09",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SONDEZI",
+   "First Name": "THAPELO",
+   "Admin": 13988,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/04/17",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SWEETNAM",
+   "First Name": "SHELBY TANIT",
+   "Admin": 14078,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/09/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "VAN SCHALKWYK",
+   "First Name": "JOSHUA",
+   "Admin": 13983,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/08/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "WOOD",
+   "First Name": "CHLOE ANN",
+   "Admin": 13889,
+   "Grade": 8,
+   "Reg": "VR",
+   "DOB": "2007/12/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BRADFIELD",
+   "First Name": "ABIGAIL KATHLEEN",
+   "Admin": 14003,
+   "Grade": 9,
+   "Reg": "FO",
+   "DOB": "2005/11/24",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BROWN",
+   "First Name": "JARED JOHN",
+   "Admin": 13702,
+   "Grade": 9,
+   "Reg": "FO",
+   "DOB": "2005/12/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CELE",
+   "First Name": "NKOSINATHI",
+   "Admin": 13693,
+   "Grade": 9,
+   "Reg": "FO",
+   "DOB": "2006/05/13",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DIAS",
+   "First Name": "KEAGEN MAURICE",
+   "Admin": 13703,
+   "Grade": 9,
+   "Reg": "FO",
+   "DOB": "2006/02/26",
+   "House": "Delport"
+ },
+ {
+   "Surname": "JENKINSON",
+   "First Name": "TY MATHEW",
+   "Admin": 13701,
+   "Grade": 9,
+   "Reg": "FO",
+   "DOB": "2006/07/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MADUNA",
+   "First Name": "VUKANI MUSAWENKOSI",
+   "Admin": 13424,
+   "Grade": 9,
+   "Reg": "FO",
+   "DOB": "2004/01/08",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SEATON",
+   "First Name": "TYLA ERIN",
+   "Admin": 13659,
+   "Grade": 9,
+   "Reg": "FO",
+   "DOB": "2006/06/14",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SOOMAN",
+   "First Name": "PHARREL MIKYLE",
+   "Admin": 13696,
+   "Grade": 9,
+   "Reg": "FO",
+   "DOB": "2006/04/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "VENTER",
+   "First Name": "JUDAH NATHAN",
+   "Admin": 13695,
+   "Grade": 9,
+   "Reg": "FO",
+   "DOB": "2005/12/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BOTHA",
+   "First Name": "OLIVIA PAIGE",
+   "Admin": 13639,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/05/26",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BURGER",
+   "First Name": "JADE CRYSTAL",
+   "Admin": 13652,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/01/30",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "CASCAES",
+   "First Name": "CADE RIVER",
+   "Admin": 13760,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2005/12/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "CHAITHRAM",
+   "First Name": "ROHAN",
+   "Admin": 13669,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2007/04/18",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "CHONCO",
+   "First Name": "NELISWA",
+   "Admin": 13564,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/08/11",
+   "House": "Delport"
+ },
+ {
+   "Surname": "DORASAMY",
+   "First Name": "BRIANNA PAIGE",
+   "Admin": 13610,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/08/08",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GAFIELDIEN",
+   "First Name": "SABRI",
+   "Admin": 13536,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/04/25",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "JOUBERT",
+   "First Name": "LOURENS DANIEL",
+   "Admin": 13658,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/11/08",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "JOUBERT",
+   "First Name": "NATHAN SETH",
+   "Admin": 13572,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2007/02/14",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "LE ROUX",
+   "First Name": "TAE EMMA",
+   "Admin": 13520,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/05/26",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MOULTON",
+   "First Name": "JORDAN LUKE",
+   "Admin": 13516,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/10/02",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MTSOKOBA",
+   "First Name": "UNAM",
+   "Admin": 13523,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/07/31",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MUNRO",
+   "First Name": "TAI JOEL",
+   "Admin": 13480,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/09/07",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NEL",
+   "First Name": "KIARA MICHELLE",
+   "Admin": 13732,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/06/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NELL",
+   "First Name": "JORDAN WESLEY",
+   "Admin": 14074,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/02/23",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NGUBELANGA",
+   "First Name": "LWANDLE WANDISA",
+   "Admin": 13515,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/12/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NIEUWENHUYS",
+   "First Name": "JORDAN LEE",
+   "Admin": 13492,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/08/30",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NTETHA",
+   "First Name": "ENHLE ZIPHO",
+   "Admin": 13506,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2007/03/10",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "PRINSLOO",
+   "First Name": "CHARMONAY",
+   "Admin": 14090,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/08/26",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "RADEBE",
+   "First Name": "SIYABONGA SIPHIWOKUHLE",
+   "Admin": 13561,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/04/05",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ROBERTSON",
+   "First Name": "CHELSEA LOUISE",
+   "Admin": 13640,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/08/04",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ROBINSON",
+   "First Name": "MONIQUE KENDAL",
+   "Admin": 13566,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/06/18",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SINGLETON",
+   "First Name": "NADIA",
+   "Admin": 13665,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/08/09",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SMITH",
+   "First Name": "ANTONY MICHAEL",
+   "Admin": 13677,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/02/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SMITH",
+   "First Name": "CALLAN DAMON",
+   "Admin": 13676,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2006/02/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SMITH",
+   "First Name": "JAMES DAVID",
+   "Admin": 13684,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2005/12/05",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SWIFT",
+   "First Name": "GABRIEL MARC",
+   "Admin": 13670,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2007/01/19",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "WHITE",
+   "First Name": "CONNOR",
+   "Admin": 13473,
+   "Grade": 9,
+   "Reg": "JM",
+   "DOB": "2005/12/02",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BLOSE",
+   "First Name": "ANDILE SPHEPHELO",
+   "Admin": 13535,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/10/31",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BUYS",
+   "First Name": "JAIME LEIGH",
+   "Admin": 13974,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/01/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CAINE",
+   "First Name": "MATTHEW BRENDON",
+   "Admin": 13517,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/04/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "CASS",
+   "First Name": "HARLEY SCOTT",
+   "Admin": 13627,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/02/26",
+   "House": "Delport"
+ },
+ {
+   "Surname": "COCKMAN",
+   "First Name": "MIQUEL CARLOS",
+   "Admin": 13386,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2005/12/23",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "COURTIS",
+   "First Name": "CLINTON RICHARD",
+   "Admin": 13618,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2005/11/15",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DAVIDSON",
+   "First Name": "JARED RYAN",
+   "Admin": 13587,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2005/11/26",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DE VILLIERS",
+   "First Name": "SHANAE",
+   "Admin": 13568,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/10/13",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DLADLA",
+   "First Name": "AMAHLE LONDIWE",
+   "Admin": 13559,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2005/07/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DLADLA",
+   "First Name": "ANDISWA LONDEKA",
+   "Admin": 13558,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2005/07/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "GEORGE",
+   "First Name": "EMILY HELEN",
+   "Admin": 13609,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/09/08",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GROBLER",
+   "First Name": "JOSHUA",
+   "Admin": 13601,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/02/13",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "HLONGWANE",
+   "First Name": "NXUSAKAZI VEOLA",
+   "Admin": 13755,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/10/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "JOONE",
+   "First Name": "TAYLOR CHEZ",
+   "Admin": 13599,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/10/16",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KHUMALO",
+   "First Name": "BONGANI ELIHLE",
+   "Admin": 13528,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2005/11/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MAKHANYA",
+   "First Name": "MPILO",
+   "Admin": 13716,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/09/21",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MC PHAIL",
+   "First Name": "DANIEL BEN",
+   "Admin": 13631,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/04/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MOLES",
+   "First Name": "SAM DAVID",
+   "Admin": 13539,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2007/03/07",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MOLOI",
+   "First Name": "GIOVANNI WETSIE",
+   "Admin": 13483,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2007/01/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "ATLEHANG REFENTSE",
+   "Admin": 13500,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/07/10",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "PADAYACHEE",
+   "First Name": "JAYDEN SHAUN",
+   "Admin": 13962,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/08/05",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "PADAYACHEE",
+   "First Name": "JOSHUA REECE",
+   "Admin": 13961,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/08/05",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "RADEBE",
+   "First Name": "NKOSINATHI",
+   "Admin": 13641,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2007/01/02",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SANDERS",
+   "First Name": "TRISTAN MICHAEL",
+   "Admin": 13485,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/01/21",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "VAZI",
+   "First Name": "ONATHI ONAKO",
+   "Admin": 14046,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/04/09",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "WOODROW",
+   "First Name": "TRENT WALD",
+   "Admin": 13681,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/09/22",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ZULU",
+   "First Name": "ENHLE SINAZO",
+   "Admin": 13764,
+   "Grade": 9,
+   "Reg": "LB",
+   "DOB": "2006/09/11",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BOTHA",
+   "First Name": "LOGAN LUKE",
+   "Admin": 13552,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2005/12/18",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CELE",
+   "First Name": "CYRIL ISISA",
+   "Admin": 13547,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/08/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "CHETTY",
+   "First Name": "ERIN BROOKLYN",
+   "Admin": 13557,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/08/03",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "CHILI",
+   "First Name": "ZAMATHUYI ALEXANDER",
+   "Admin": 13626,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2005/07/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "COETZER",
+   "First Name": "JOSHUA PAUL",
+   "Admin": 13686,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/07/06",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "COOKE",
+   "First Name": "SIMONE TESSA",
+   "Admin": 13497,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2005/08/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DLADLA",
+   "First Name": "ANELE ENJOY",
+   "Admin": 13521,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/02/28",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GUMEDE",
+   "First Name": "BANDE BUKHOSI",
+   "Admin": 13577,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2007/05/19",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "HLOPHE",
+   "First Name": "GUGULETHU CYNTHIA",
+   "Admin": 13533,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/09/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MAZIBUKO",
+   "First Name": "LWANDILE THEMBALETHU",
+   "Admin": 13581,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2007/06/28",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MC KENZIE",
+   "First Name": "JADE ROSE",
+   "Admin": 13721,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/06/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MCHUNU",
+   "First Name": "SITHOKOMELE",
+   "Admin": 13765,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2005/08/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "SIBUSISIWE AMAHLE",
+   "Admin": 13630,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/01/12",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MVELASE",
+   "First Name": "NELISA MINENHLE",
+   "Admin": 13674,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/04/09",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MZOBE",
+   "First Name": "NOZBUSISO NOSIPHO",
+   "Admin": 13637,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/06/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NAIDU",
+   "First Name": "POOVARASAN",
+   "Admin": 13532,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/06/13",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NDLOVU",
+   "First Name": "MVIKELI TITO JUNIOR",
+   "Admin": 13612,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2007/05/09",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NGWANE",
+   "First Name": "ASANELE",
+   "Admin": 13975,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/10/17",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NIELSEN",
+   "First Name": "TAYLA PAIGE",
+   "Admin": 13653,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/09/14",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NTSHANGASE",
+   "First Name": "LUYANDA",
+   "Admin": 13509,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/06/07",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NWOFOR",
+   "First Name": "CHIOMA SINOTHANDO",
+   "Admin": 13565,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/12/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "OOSTHUIZEN",
+   "First Name": "JUSTIN",
+   "Admin": 13336,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2005/06/30",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SHOZI",
+   "First Name": "HLONIPHILE NONTOKOZO",
+   "Admin": 13621,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2005/03/03",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SIBISI",
+   "First Name": "SENZELWEUMUSA ZOTHILE LYRIC",
+   "Admin": 13474,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2007/06/18",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SIGWEBELA",
+   "First Name": "APHIWE",
+   "Admin": 13588,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/01/02",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "VAN NIEKERK",
+   "First Name": "CHLOE",
+   "Admin": 14035,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/07/18",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "XHOBA",
+   "First Name": "MUKELWE",
+   "Admin": 13647,
+   "Grade": 9,
+   "Reg": "LP",
+   "DOB": "2006/11/30",
+   "House": "Delport"
+ },
+ {
+   "Surname": "CLARKE",
+   "First Name": "TRAVIS",
+   "Admin": 13706,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2005/05/24",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "CURTIS",
+   "First Name": "TYLER JAMES",
+   "Admin": 13498,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2006/12/19",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GARDINER",
+   "First Name": "KEAGAN KYE",
+   "Admin": 13955,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2005/01/06",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GARDNER",
+   "First Name": "JAMES MATTHEW",
+   "Admin": 13759,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2005/03/06",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GOVENDER",
+   "First Name": "LEAH JORDYN",
+   "Admin": 13675,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2006/07/06",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GRUNDLING",
+   "First Name": "JORDAN DANIEL",
+   "Admin": 13704,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2005/11/23",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "HAWKINS",
+   "First Name": "CONNOR",
+   "Admin": 13692,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2005/08/10",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KJAER",
+   "First Name": "BENJAMIN ANTON",
+   "Admin": 13699,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2006/05/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "LEVY",
+   "First Name": "EZEKIEL DAX",
+   "Admin": 14077,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2006/03/30",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MADELA",
+   "First Name": "THANDOLWETHU BANDILE",
+   "Admin": 13709,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2005/12/07",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MENNIE",
+   "First Name": "RYAN ALEXANDER",
+   "Admin": 13698,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2006/06/13",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MFEKA",
+   "First Name": "OLWANDLE KWANELE",
+   "Admin": 14076,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2006/08/07",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ONYEBILANMA",
+   "First Name": "OYINYECHI JUBILEE",
+   "Admin": 13694,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2005/12/24",
+   "House": "Delport"
+ },
+ {
+   "Surname": "RILEY",
+   "First Name": "TROY ALEXANDER",
+   "Admin": 13697,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2005/08/14",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "VISSER",
+   "First Name": "TRISTAN ROWLAND",
+   "Admin": 13705,
+   "Grade": 9,
+   "Reg": "MG",
+   "DOB": "2005/10/22",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ADENDORFF",
+   "First Name": "ANNIKA NELMARIE",
+   "Admin": 13611,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/05/24",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ATTWELL",
+   "First Name": "CHLOE ANNABELLE",
+   "Admin": 13504,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/10/25",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BOOYSEN",
+   "First Name": "LUCY HANNAH",
+   "Admin": 13770,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/08/03",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BOTHA",
+   "First Name": "CHARL JACQUES",
+   "Admin": 13733,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/07/30",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BUCKLEY",
+   "First Name": "BROOKE TAYLA",
+   "Admin": 13667,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2005/09/22",
+   "House": "Delport"
+ },
+ {
+   "Surname": "CHETTY",
+   "First Name": "KIARRA RACHEAL",
+   "Admin": 13660,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/10/25",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DAVIES",
+   "First Name": "TAYLA ANNE",
+   "Admin": 13567,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/03/06",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GRAHAM",
+   "First Name": "JESSICA",
+   "Admin": 13614,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/10/02",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HERBST",
+   "First Name": "TENIEL JORDAN",
+   "Admin": 13478,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/02/28",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "JOUBERT",
+   "First Name": "JACK TRAVIS",
+   "Admin": 13573,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2007/02/14",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "KENNEDY",
+   "First Name": "LEIAH GEORGIA",
+   "Admin": 13538,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/06/05",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "KING",
+   "First Name": "ABIGAIL RIANALA",
+   "Admin": 13685,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/01/17",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KUBONE",
+   "First Name": "SPHILE ZAMABHELE",
+   "Admin": 13661,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/08/15",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "LOUW",
+   "First Name": "JENNA",
+   "Admin": 13625,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/02/14",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MAKANYA",
+   "First Name": "THANDOLWAMI ZETHEMBISO",
+   "Admin": 13489,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2007/02/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MC CARTNEY",
+   "First Name": "ERIN LEIGH",
+   "Admin": 13664,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2007/03/19",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "AYABONGA",
+   "Admin": 13510,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/06/19",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MNGADI",
+   "First Name": "FANELESIBONGE ZANOXOLO",
+   "Admin": 13600,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/09/21",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MULLER",
+   "First Name": "LUKE",
+   "Admin": 13662,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/12/26",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NINELA",
+   "First Name": "SINETHEMBA",
+   "Admin": 13578,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2005/11/17",
+   "House": "Delport"
+ },
+ {
+   "Surname": "PADAYACHEE",
+   "First Name": "SHIANNE KAITLYNN",
+   "Admin": 13682,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/09/13",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "PETRONIO",
+   "First Name": "ALESSANDRO FABIO",
+   "Admin": 13499,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/07/09",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "REECE",
+   "First Name": "DANA BETH",
+   "Admin": 13666,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/08/08",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SMITH",
+   "First Name": "GABRIEL NATHANAEL",
+   "Admin": 13598,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/06/21",
+   "House": "Delport"
+ },
+ {
+   "Surname": "STADTER",
+   "First Name": "ELLA GLENN",
+   "Admin": 13650,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/09/22",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "STAINER",
+   "First Name": "KAELYN SARAH",
+   "Admin": 13672,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/05/31",
+   "House": "Delport"
+ },
+ {
+   "Surname": "THOMAS",
+   "First Name": "NIKITA ELAINE",
+   "Admin": 13580,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2006/08/29",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "WALKER",
+   "First Name": "MORGAN ALICE",
+   "Admin": 13494,
+   "Grade": 9,
+   "Reg": "MM",
+   "DOB": "2007/03/18",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BIYELA",
+   "First Name": "MPATHEENHLE ANDILE",
+   "Admin": 13775,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/12/18",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CELE",
+   "First Name": "SAMKELO VUYISWA",
+   "Admin": 13673,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/06/06",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "AWANDE ONGAMA",
+   "Admin": 13479,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/01/09",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "LUHLE",
+   "Admin": 13687,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/09/16",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "EDWARDS",
+   "First Name": "BRADLEY STEWARD",
+   "Admin": 13592,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/07/02",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GOVENDER",
+   "First Name": "AMELIA",
+   "Admin": 13475,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/11/20",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "JONES",
+   "First Name": "BRAYDEN",
+   "Admin": 13525,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2005/11/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "LANGENHOVEN",
+   "First Name": "SETH COLE",
+   "Admin": 13683,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/03/26",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MAGADLA",
+   "First Name": "LWANDILE",
+   "Admin": 13484,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2007/03/27",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MAHLANGU",
+   "First Name": "AKWANDE",
+   "Admin": 13493,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2007/02/12",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MAJOZI",
+   "First Name": "AKWANDE",
+   "Admin": 13619,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2007/03/08",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MC LEAN",
+   "First Name": "JADEN CRAIG",
+   "Admin": 13488,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/06/12",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MIKKELSEN",
+   "First Name": "CIARA",
+   "Admin": 13589,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/05/18",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "NOLWAZI ASANDA",
+   "Admin": 13973,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/09/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MOLEBALE",
+   "First Name": "MASHILO THABISO LERATO",
+   "Admin": 13616,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2007/02/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NAUDE",
+   "First Name": "KATELYN",
+   "Admin": 13585,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/05/07",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NDLOVU",
+   "First Name": "MFANELO FELIX-JUNIOR",
+   "Admin": 13654,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/08/01",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NGEJANE",
+   "First Name": "XOLELA",
+   "Admin": 13649,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2007/04/16",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "PAYNE",
+   "First Name": "LIAM JOHN",
+   "Admin": 13496,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2005/12/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "PHEWA",
+   "First Name": "PHILASANDE",
+   "Admin": 13656,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/01/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SITHEBE",
+   "First Name": "OKUHLE SIBUSISIWE",
+   "Admin": 13553,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/06/26",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SMITH",
+   "First Name": "JOSHUA ERNST",
+   "Admin": 13501,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/08/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "URQUHART",
+   "First Name": "EMILY MARY",
+   "Admin": 13529,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/06/07",
+   "House": "Delport"
+ },
+ {
+   "Surname": "VIGNE",
+   "First Name": "TEAGAN TAYLOR",
+   "Admin": 13679,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2005/12/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WARREN",
+   "First Name": "TAMIECA ANN",
+   "Admin": 13584,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/09/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WERNER",
+   "First Name": "BRENDON ROLAND ANTHONY",
+   "Admin": 13522,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/03/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "WOODCOCK",
+   "First Name": "WADE JOHN",
+   "Admin": 13624,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/04/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "ZUNGU",
+   "First Name": "MANZINI KNOSAZANA",
+   "Admin": 13735,
+   "Grade": 9,
+   "Reg": "RL",
+   "DOB": "2006/09/28",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ADRUTHKUMAR",
+   "First Name": "KIAN ALDEN",
+   "Admin": 13736,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/07/21",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "ALLAN",
+   "First Name": "JOSIAH LEE",
+   "Admin": 13476,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/11/08",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BANSI",
+   "First Name": "ROWYN LE SHAY",
+   "Admin": 13967,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/07/24",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BECKER",
+   "First Name": "SHAELYN LEIGH",
+   "Admin": 13505,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/08/02",
+   "House": "Delport"
+ },
+ {
+   "Surname": "DLOMO",
+   "First Name": "NJABULO JUNIOR",
+   "Admin": 13757,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2005/09/11",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HEATH",
+   "First Name": "SIMONE",
+   "Admin": 13208,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2005/07/19",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KHWELA",
+   "First Name": "MELOKUHLE",
+   "Admin": 13767,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2005/11/22",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MADONSELA",
+   "First Name": "THUBELIHLE",
+   "Admin": 13628,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/09/06",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MAHARAJ",
+   "First Name": "ALOK ANAND",
+   "Admin": 13737,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/03/22",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MAHLAULE",
+   "First Name": "RHULANI NDUMISO",
+   "Admin": 13629,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/11/18",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MAPHUMULO",
+   "First Name": "BEAUMONT BONGANI",
+   "Admin": 13582,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/10/01",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MAPOTSE",
+   "First Name": "TUMELO",
+   "Admin": 13524,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/12/18",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MBHELE",
+   "First Name": "MSIZI NKANYISO",
+   "Admin": 13593,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/02/07",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MDUNGE",
+   "First Name": "KHETHELO",
+   "Admin": 13486,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2007/06/18",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "MKHULEKO LUTHANDO",
+   "Admin": 13590,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/10/31",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MQADI",
+   "First Name": "GUGELIHLE",
+   "Admin": 13574,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/09/28",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NDABA",
+   "First Name": "SIFANELE MALUSI",
+   "Admin": 13508,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2005/07/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "NKANYISO ANDILE",
+   "Admin": 13655,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/01/28",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "SINOTHANDO SBONOKUHLE",
+   "Admin": 13544,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/07/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NGIBA",
+   "First Name": "ZIPHEZINHLE BANDILE",
+   "Admin": 13756,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/11/20",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NYAWOSE",
+   "First Name": "SINALO",
+   "Admin": 13634,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2007/05/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SUMPTON",
+   "First Name": "JOSHUA",
+   "Admin": 13518,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/05/31",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "VEZI",
+   "First Name": "SBONGAKONKE",
+   "Admin": 13579,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2005/06/18",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ZONDI",
+   "First Name": "MHLENGI CHASE",
+   "Admin": 13594,
+   "Grade": 9,
+   "Reg": "SC",
+   "DOB": "2006/10/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "CHICK DURRANT",
+   "First Name": "TERRI-LEE",
+   "Admin": 13507,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2006/09/14",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DAVID",
+   "First Name": "DEQLAN XAVIER",
+   "Admin": 13748,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2006/01/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "NAMELANI NKONZO",
+   "Admin": 13768,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2006/01/30",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ELLIOTT",
+   "First Name": "RACHEL CHRISTINE",
+   "Admin": 13563,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2006/04/25",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GORDON",
+   "First Name": "ROWAN",
+   "Admin": 13678,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2005/07/31",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GUMBI",
+   "First Name": "KWANDILE",
+   "Admin": 13562,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2005/07/29",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GUMEDE",
+   "First Name": "NJABULO THANDOLWAMI",
+   "Admin": 13571,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2006/08/28",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "LAMULA",
+   "First Name": "NKOSIKHONA",
+   "Admin": 13333,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2004/08/16",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MALULEKA",
+   "First Name": "MNQOBI",
+   "Admin": 13540,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2007/06/22",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MAZIBUKO",
+   "First Name": "NOXOLO",
+   "Admin": 13772,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2005/09/04",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MLAMBO",
+   "First Name": "ALWANDE SIHLE",
+   "Admin": 13615,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2005/07/03",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MNCWABE",
+   "First Name": "ASANELE",
+   "Admin": 13458,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2005/07/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MTHETHWA",
+   "First Name": "AMAHLE CEBOLENKOSI",
+   "Admin": 13668,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2005/11/20",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NDLOVU",
+   "First Name": "SIBANI AYABONGA",
+   "Admin": 13514,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2006/05/21",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NDLOVU",
+   "First Name": "SISANDA NKANYEZI",
+   "Admin": 13644,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2006/04/12",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NEL",
+   "First Name": "MADISON JADE",
+   "Admin": 13554,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2006/04/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "SIPHOSETHU",
+   "Admin": 13511,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2006/08/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NGOBESE",
+   "First Name": "ASANDE MHLANGANISI",
+   "Admin": 13527,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2007/01/06",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "OBRIEN",
+   "First Name": "SEAN ANDREW",
+   "Admin": 13526,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2005/01/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SMITH",
+   "First Name": "COHEN JADON",
+   "Admin": 13719,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2005/11/09",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SOARES",
+   "First Name": "ARLEN ROSS",
+   "Admin": 13356,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2005/05/20",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "STRYDOM",
+   "First Name": "NICHOLAS",
+   "Admin": 13550,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2006/08/31",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "STUBBS",
+   "First Name": "BALIAN JOSHUA",
+   "Admin": 13734,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2005/12/20",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "STUBBS",
+   "First Name": "JORDAN JOAHNA",
+   "Admin": 13435,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2004/11/08",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "THOMAS",
+   "First Name": "ANDREW DARREN",
+   "Admin": 13623,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2006/03/15",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "ZONDI",
+   "First Name": "LUNGELO SIPHESIHLE",
+   "Admin": 13645,
+   "Grade": 9,
+   "Reg": "ST",
+   "DOB": "2006/10/13",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BROWN",
+   "First Name": "JAYDON HUNTER",
+   "Admin": 13519,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2005/12/13",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "CHOVUCHOVU",
+   "First Name": "ASHER KUNDAI",
+   "Admin": 13560,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/03/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DUBAZANE",
+   "First Name": "LUTHANDO SBONGAKONKE",
+   "Admin": 13648,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/07/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "EISTETTER",
+   "First Name": "MEEKA GEMMA",
+   "Admin": 13481,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/07/20",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "FAKAZI",
+   "First Name": "OLWETHU SIYAMTHANDA",
+   "Admin": 13613,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/03/08",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "FOULIS",
+   "First Name": "GRAEME DUNCAN",
+   "Admin": 13636,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/01/26",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GOVENDER",
+   "First Name": "ETHAN KYLE",
+   "Admin": 13570,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/05/07",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KEEN",
+   "First Name": "JESSICA ANN",
+   "Admin": 13513,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/12/07",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KHUBONI",
+   "First Name": "UMINATHI",
+   "Admin": 13575,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2005/06/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "LIM",
+   "First Name": "JORDAN SU-MIN",
+   "Admin": 13970,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/05/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MAKHUBA",
+   "First Name": "APHELELE WANDA",
+   "Admin": 13495,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2007/03/13",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MBATHA",
+   "First Name": "SAMUKELISIWE",
+   "Admin": 13534,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2005/09/11",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "MELUSI MBULELO",
+   "Admin": 13545,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2005/12/01",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MLONYENI",
+   "First Name": "SANGE",
+   "Admin": 13512,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/07/03",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "ZAMAFUZE LWAZI",
+   "Admin": 13603,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/10/13",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NSELE",
+   "First Name": "LIHLITHEMBA",
+   "Admin": 13622,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2007/02/16",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "RAATHS",
+   "First Name": "EVAN REI",
+   "Admin": 13482,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/02/05",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "RAMSERN",
+   "First Name": "KEVAAN",
+   "Admin": 13556,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2007/02/28",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SHAWE",
+   "First Name": "MANGALISO OMUHLE",
+   "Admin": 13602,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/01/27",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SIBAYA",
+   "First Name": "OLWETHU OFENTSWE",
+   "Admin": 13773,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2005/09/01",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SINGH",
+   "First Name": "MIA",
+   "Admin": 13605,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/08/20",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SITHOLE",
+   "First Name": "SIQALO SOMNOTHO",
+   "Admin": 13583,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2006/02/09",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "TANTUM",
+   "First Name": "MEGAN LEIGH",
+   "Admin": 13620,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2005/01/19",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "ZAMA",
+   "First Name": "NOSIHLE",
+   "Admin": 13671,
+   "Grade": 9,
+   "Reg": "WB",
+   "DOB": "2005/02/21",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BLACKBEARD",
+   "First Name": "EMMA CRYSTAL",
+   "Admin": 13224,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2006/02/01",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BLOM",
+   "First Name": "JOSHUA ELIJAH",
+   "Admin": 13288,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/08/03",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BRIJRAJH",
+   "First Name": "KINJIL",
+   "Admin": 13414,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2006/06/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BROODRYK",
+   "First Name": "MATTHEW DAVID",
+   "Admin": 13211,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/11/09",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DEGGER",
+   "First Name": "NATASJA JADE",
+   "Admin": 13258,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/09/09",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "EASSON",
+   "First Name": "JAMES ALEXANDER",
+   "Admin": 13236,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/05/31",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MABASO",
+   "First Name": "NTSAKO NOKUBONGA",
+   "Admin": 13321,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/07/10",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MACK",
+   "First Name": "QUINN",
+   "Admin": 13397,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/10/19",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MADLALA",
+   "First Name": "ASANDA SPHELELE",
+   "Admin": 12948,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2004/03/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MAJUBANA",
+   "First Name": "SENEME NALEDI",
+   "Admin": 13378,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/01/15",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MARAIS",
+   "First Name": "JOEL CHARLES",
+   "Admin": 14042,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/07/04",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MASONDO",
+   "First Name": "S'BAHLESONKE",
+   "Admin": 13345,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2006/05/06",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MBILI",
+   "First Name": "SNQOBILE SPHEPHELO",
+   "Admin": 13691,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/07/26",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MBONAMBI",
+   "First Name": "LUSANDA",
+   "Admin": 13417,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/08/03",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MBONAMBI",
+   "First Name": "THAPELO",
+   "Admin": 13368,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2004/06/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MCHUNU",
+   "First Name": "LWAZI NQUBEKO",
+   "Admin": 13452,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/04/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MHLONGO",
+   "First Name": "APHILE",
+   "Admin": 13241,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2004/03/26",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MNTAKWENDE",
+   "First Name": "KWENZEKA",
+   "Admin": 13330,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/09/03",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ROOKE",
+   "First Name": "SPENCER GRAHAM",
+   "Admin": 13468,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2003/03/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SHABALALA",
+   "First Name": "ALWANDE NOSIPHO",
+   "Admin": 13713,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/11/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SITHOLE",
+   "First Name": "ANDISWA",
+   "Admin": 13226,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/03/31",
+   "House": "Delport"
+ },
+ {
+   "Surname": "TIMM",
+   "First Name": "ETHAN MARTIN",
+   "Admin": 13350,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2004/10/18",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "TSHABALALA",
+   "First Name": "NDUMISO",
+   "Admin": 13421,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2004/12/25",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "VAN HEERDEN",
+   "First Name": "MORGAN ALEXANDRA",
+   "Admin": 13242,
+   "Grade": 10,
+   "Reg": "AW",
+   "DOB": "2005/05/05",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "COLEMAN-FINCH",
+   "First Name": "CONNOR ALLEN",
+   "Admin": 13331,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2004/12/26",
+   "House": "Delport"
+ },
+ {
+   "Surname": "DHLAMINI",
+   "First Name": "VUYO",
+   "Admin": 13341,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2004/07/12",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DOUGLAS",
+   "First Name": "GABRIEL ALEXANDER PETER",
+   "Admin": 13267,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/11/13",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "EIGENMANN",
+   "First Name": "JODY LEE",
+   "Admin": 13398,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/06/03",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "FYNN",
+   "First Name": "SHAQUILLE JEREMMY",
+   "Admin": 13198,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2004/10/05",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GUNGIAH",
+   "First Name": "JASKARAN",
+   "Admin": 13385,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/08/17",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GWALA",
+   "First Name": "KWANELE",
+   "Admin": 13324,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2007/02/01",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "HLENGWA",
+   "First Name": "OLUHLE LATHITHA",
+   "Admin": 13101,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/06/14",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HLONGWA",
+   "First Name": "NTOBEKO NCEBO",
+   "Admin": 13395,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2004/03/17",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HODGSON",
+   "First Name": "NICHOLAS",
+   "Admin": 13210,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/04/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "HUNTER",
+   "First Name": "SAMANTHA JANE",
+   "Admin": 13201,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/06/14",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KHAMBULE",
+   "First Name": "LUSANDA APHIWE",
+   "Admin": 13440,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2006/02/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "KHATHI",
+   "First Name": "TUMELO",
+   "Admin": 13310,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/10/05",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KLIJNSTRA",
+   "First Name": "MAIA LUCIE",
+   "Admin": 13253,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/06/14",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KUBONE",
+   "First Name": "AYABONGA SIYETHABA",
+   "Admin": 13374,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/04/25",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "LOUBSER",
+   "First Name": "SUMMER RAINE",
+   "Admin": 13265,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/03/22",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MC CALLUM",
+   "First Name": "KIERAN ALEXANDER",
+   "Admin": 13197,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2004/07/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MCHUNU",
+   "First Name": "PORTIA AMANDA",
+   "Admin": 13319,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/06/15",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MOLOI",
+   "First Name": "NATHAN VITO",
+   "Admin": 13252,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/11/21",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NDOKWENI",
+   "First Name": "KUSANDA ZAMANDAYI",
+   "Admin": 13230,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2006/04/02",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NGEMA",
+   "First Name": "OWETHU NDUDUZO",
+   "Admin": 13249,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/12/02",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "O'DONNELL",
+   "First Name": "SARAH MIA",
+   "Admin": 14053,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/10/30",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "PADAYACHEE",
+   "First Name": "ALEESHA",
+   "Admin": 13221,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/08/10",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "PECHEY",
+   "First Name": "KYLA LEE",
+   "Admin": 13248,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/04/22",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "REID",
+   "First Name": "AMBER KAYCEE",
+   "Admin": 13212,
+   "Grade": 10,
+   "Reg": "IC",
+   "DOB": "2005/04/09",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BAMBER",
+   "First Name": "ISABELLA JOHANNA",
+   "Admin": 13325,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/12/29",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BOTHA",
+   "First Name": "CAIDEEN JENNIFER",
+   "Admin": 14037,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/10/18",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BURGER",
+   "First Name": "HAILEY",
+   "Admin": 13306,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/05/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "CAINE",
+   "First Name": "ROSS MICHAEL",
+   "Admin": 13312,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/02/13",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "GOVENDER",
+   "First Name": "DYLAN",
+   "Admin": 13256,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2004/09/11",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GRIESSEL",
+   "First Name": "RAQUEL ANN",
+   "Admin": 13307,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/04/26",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "IMPSON",
+   "First Name": "KEAGAN TYE",
+   "Admin": 13225,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/05/23",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "JONES",
+   "First Name": "STELLA LOUISE",
+   "Admin": 13293,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/06/03",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KHATHI",
+   "First Name": "LINDELWA",
+   "Admin": 13749,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2006/03/13",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KHUBONI",
+   "First Name": "NHLAKANIPHO SISANDA",
+   "Admin": 13308,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/05/05",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KHUZWAYO",
+   "First Name": "UNAMANDLA GODSLOVE",
+   "Admin": 13766,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/08/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KIPPEN",
+   "First Name": "ROBBEN ALLEN",
+   "Admin": 13240,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/12/16",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KLOPPERS",
+   "First Name": "NATHAN",
+   "Admin": 13296,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/10/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MATABANE",
+   "First Name": "MANGALISO THABELO",
+   "Admin": 13327,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/04/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MHLONGO",
+   "First Name": "YANDISA MILISA",
+   "Admin": 13393,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/03/23",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MOEKETSE",
+   "First Name": "DEMPHO PALESA",
+   "Admin": 13968,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2004/07/30",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MOODLEY",
+   "First Name": "SHANKAR",
+   "Admin": 13227,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2006/04/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MOSS",
+   "First Name": "DANICA",
+   "Admin": 13214,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/06/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NDIYAZA",
+   "First Name": "KHANYISANI",
+   "Admin": 13339,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/07/17",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NEWCOMBE-BOND",
+   "First Name": "KATRINA",
+   "Admin": 13200,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/02/24",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NOBHEKWA",
+   "First Name": "OWETHU",
+   "Admin": 13642,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/08/20",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NZAMA",
+   "First Name": "SANELE",
+   "Admin": 13323,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/01/21",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "OLSEN",
+   "First Name": "DYLAN HUNTER",
+   "Admin": 13218,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2005/10/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SCHULZE",
+   "First Name": "CHLOE",
+   "Admin": 13429,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2004/10/16",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ZUNGU",
+   "First Name": "MALUSI PROPHET STEVEN",
+   "Admin": 13387,
+   "Grade": 10,
+   "Reg": "NK",
+   "DOB": "2004/09/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ARMSTRONG",
+   "First Name": "SARAH BELL",
+   "Admin": 13292,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/07/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BOTHA",
+   "First Name": "JOLENE",
+   "Admin": 13297,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/12/22",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "ASANDA MONDE",
+   "Admin": 13375,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2006/06/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GIEN",
+   "First Name": "KAYLA FEY",
+   "Admin": 13367,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/02/17",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "IHLENFELDT",
+   "First Name": "MATTHEW",
+   "Admin": 13238,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/12/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "JANSEN VAN VUUREN",
+   "First Name": "ADRIAN",
+   "Admin": 12976,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2004/03/01",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KODANDARAJU",
+   "First Name": "DANIEL",
+   "Admin": 13447,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/10/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MADELEY",
+   "First Name": "JENNA KAY",
+   "Admin": 13279,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/08/15",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MAGINGXA",
+   "First Name": "NTANDOKAZI NIKELWA",
+   "Admin": 13202,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/05/19",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MAPHUMULO",
+   "First Name": "SPHIWE SABELO",
+   "Admin": 13758,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/06/05",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MARQUARDT-TERBLANCHE",
+   "First Name": "PATRICK",
+   "Admin": 13979,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/12/04",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MCFARLANE",
+   "First Name": "LESLEY JADE",
+   "Admin": 13244,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/10/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MDLADLA",
+   "First Name": "ALWANDE",
+   "Admin": 13381,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2006/01/30",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MOLLENTZE",
+   "First Name": "KEVERN ABRAHAM",
+   "Admin": 13260,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2004/11/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MSOMI",
+   "First Name": "AMAHLE",
+   "Admin": 13717,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/11/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MURRAN",
+   "First Name": "HANNAH MONICA",
+   "Admin": 13278,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/03/23",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "OLTMANN",
+   "First Name": "CARA ELIZABETH",
+   "Admin": 13725,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/05/12",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SARJOU",
+   "First Name": "BANELE EMMANUEL TYRESSE",
+   "Admin": 13453,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2004/11/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SHABANGU",
+   "First Name": "AWANDE TSEPO",
+   "Admin": 13730,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/09/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SITHOLE",
+   "First Name": "SANELE SANDILE",
+   "Admin": 12834,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2002/07/07",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "STUBBS",
+   "First Name": "DECLAN JEREMIAH",
+   "Admin": 12990,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2003/08/25",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SWEETNAM",
+   "First Name": "PAIGE CAMERON",
+   "Admin": 13338,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/06/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "TEMBE",
+   "First Name": "SNENHLANHLA",
+   "Admin": 13445,
+   "Grade": 10,
+   "Reg": "SB",
+   "DOB": "2005/09/23",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ANANTH",
+   "First Name": "JADIN",
+   "Admin": 13259,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2006/02/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BADASSY",
+   "First Name": "ABENI RUTH",
+   "Admin": 13250,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2006/01/21",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BEATTIE",
+   "First Name": "JOSHUA JOHN",
+   "Admin": 13217,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/04/02",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BOSMAN",
+   "First Name": "GWYDDIAN",
+   "Admin": 13388,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/04/30",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BUXTON",
+   "First Name": "ERIN JADE",
+   "Admin": 13243,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/09/12",
+   "House": "Delport"
+ },
+ {
+   "Surname": "CELE",
+   "First Name": "ANDISWA",
+   "Admin": 14023,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/08/04",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "COCHRANE",
+   "First Name": "NAOMH CHLOE",
+   "Admin": 13785,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/04/29",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CONWAY",
+   "First Name": "BRANDON RYLE",
+   "Admin": 13235,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/02/23",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CREED",
+   "First Name": "TYLER DECLAN",
+   "Admin": 13287,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/09/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DE KOCK",
+   "First Name": "JESSICA",
+   "Admin": 13262,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/03/18",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DIMBA",
+   "First Name": "LETHUBUHLE EYAMA",
+   "Admin": 13380,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/01/30",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DOUBLEDAY EATON",
+   "First Name": "ZIANNE",
+   "Admin": 13320,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/07/21",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DUFFIELD",
+   "First Name": "HALEY",
+   "Admin": 13206,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/10/18",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HENNING",
+   "First Name": "ANDRIES JOHAN",
+   "Admin": 13305,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/07/21",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "JACOBSON",
+   "First Name": "SHAE KAREN",
+   "Admin": 13232,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/05/19",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "JULIES",
+   "First Name": "JADE",
+   "Admin": 14082,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/12/13",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MNCWABE",
+   "First Name": "ZIPHEZINHLE SIZAKELE",
+   "Admin": 13459,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2003/01/01",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "PHAKATHI",
+   "First Name": "ZENANDE",
+   "Admin": 13222,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/02/08",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "PIENAAR",
+   "First Name": "AMBER RAE",
+   "Admin": 13389,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/05/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "POLLING",
+   "First Name": "MIA GRACE",
+   "Admin": 13263,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/04/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SHOZI",
+   "First Name": "LWANDISWA ABETHU",
+   "Admin": 13443,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2006/05/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SINGH",
+   "First Name": "CHEGUE",
+   "Admin": 13231,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2004/02/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "STOLTZ",
+   "First Name": "CASEY JULIANA",
+   "Admin": 14022,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/09/09",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ZACA",
+   "First Name": "AYABONGA AWETHU",
+   "Admin": 13441,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2005/12/13",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "ZAMA",
+   "First Name": "SANDISWA SISANDA",
+   "Admin": 13394,
+   "Grade": 10,
+   "Reg": "SE",
+   "DOB": "2006/04/24",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MATTHEWS",
+   "First Name": "CAMERON DAVID",
+   "Admin": 13269,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2004/12/26",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "AMILE",
+   "Admin": 13376,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/10/09",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MNCUBE",
+   "First Name": "SBUSISO NJABULO",
+   "Admin": 13365,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/01/21",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MORCK",
+   "First Name": "JUDAH DANIEL",
+   "Admin": 13344,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/11/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MTHEMBU",
+   "First Name": "BAYANDILE MENELISI",
+   "Admin": 13284,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2004/11/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NGIDI",
+   "First Name": "SANELISIWE SIPHESIHLE",
+   "Admin": 13207,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/08/15",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NINELA",
+   "First Name": "NOMBUSO SAMKELISIWE",
+   "Admin": 13335,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2004/04/24",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NKABINDE",
+   "First Name": "THANDOLWETHU LUYANDA",
+   "Admin": 13715,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2006/05/18",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "PILLING",
+   "First Name": "JOSHUA PAUL",
+   "Admin": 13203,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/05/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "POTGIETER",
+   "First Name": "HANNAH",
+   "Admin": 13726,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2006/06/06",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "REDDY",
+   "First Name": "DELLESHAN",
+   "Admin": 13399,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/08/05",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "RICH",
+   "First Name": "JAMIE RYAN",
+   "Admin": 13317,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/04/11",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SCHEEPERS",
+   "First Name": "DANIEL ABEL MIUDO",
+   "Admin": 13272,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2006/06/14",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SEARLE",
+   "First Name": "KAYLA",
+   "Admin": 13289,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/04/07",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SETARO",
+   "First Name": "BLAKE",
+   "Admin": 13229,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/07/03",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SHEZI",
+   "First Name": "OKUHLE",
+   "Admin": 14072,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2006/01/20",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SINGH",
+   "First Name": "JAIDEEP",
+   "Admin": 13392,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/11/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SNYMAN",
+   "First Name": "RENE",
+   "Admin": 13379,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/11/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "TATTON",
+   "First Name": "SARAH",
+   "Admin": 13276,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/09/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "THOMAS",
+   "First Name": "JAMES GORDON",
+   "Admin": 13254,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/08/09",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "VERSTER",
+   "First Name": "SEBASTIAN SLADE SETH",
+   "Admin": 13113,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2004/03/01",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "VIRARAGAVAN",
+   "First Name": "LERUSHAN",
+   "Admin": 13213,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/07/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WANDA",
+   "First Name": "OKUHLE",
+   "Admin": 13349,
+   "Grade": 10,
+   "Reg": "SR",
+   "DOB": "2005/05/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BOTHA",
+   "First Name": "WESTON SHANE",
+   "Admin": 13425,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/04/04",
+   "House": "Delport"
+ },
+ {
+   "Surname": "CALITZ",
+   "First Name": "MICHAELA SKYE",
+   "Admin": 13372,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/01/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DELPORT",
+   "First Name": "RYAN MATTHEWS",
+   "Admin": 13371,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2004/12/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GARNHAM",
+   "First Name": "RAIFFE KELBY",
+   "Admin": 13370,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/06/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GRUNDLING",
+   "First Name": "JOSHUA CADEN",
+   "Admin": 13460,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2004/05/25",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "HALL",
+   "First Name": "ZACHARY JOHN",
+   "Admin": 13361,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/01/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "HANN",
+   "First Name": "MATTHEW GRAHAM",
+   "Admin": 13346,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2004/05/14",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HAWKINS",
+   "First Name": "CAMERON LANCE",
+   "Admin": 13354,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2004/12/31",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "JOHNSON",
+   "First Name": "MEGAN LEIGH",
+   "Admin": 13282,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2004/09/19",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KLUG",
+   "First Name": "CHRISTOPHER NICHOLAS",
+   "Admin": 13137,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2003/11/06",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "YASMEEN CLAUDIA ZENHLANHLA",
+   "Admin": 12940,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2004/03/24",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NCANINI",
+   "First Name": "LUNGISA JUSTICE",
+   "Admin": 13268,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2006/06/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "QINANI MBUSO",
+   "Admin": 13377,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/05/22",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "STHEMBISO",
+   "Admin": 13309,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2004/05/09",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "THUTHUKA ALEXANDER",
+   "Admin": 13353,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/04/21",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NTSHINGILA",
+   "First Name": "THANDOLUHLE",
+   "Admin": 13115,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/05/13",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "OLIVIER",
+   "First Name": "JASON",
+   "Admin": 13359,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/01/31",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "REAY",
+   "First Name": "EMMA JESSICA",
+   "Admin": 13358,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2004/08/02",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SCHEFERMANN",
+   "First Name": "JOSHUA MICHAEL",
+   "Admin": 13363,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/05/31",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SIEPMAN",
+   "First Name": "STEPHEN CRAIG",
+   "Admin": 13215,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2004/09/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "VAN DER MERWE",
+   "First Name": "LARA",
+   "Admin": 13352,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/04/24",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "VAN DER MERWE",
+   "First Name": "MAX",
+   "Admin": 13362,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/07/18",
+   "House": "Delport"
+ },
+ {
+   "Surname": "VILAKAZI",
+   "First Name": "AMAHLE JANINE",
+   "Admin": 13401,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/07/13",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WINFIELD",
+   "First Name": "MADISON TAYLA",
+   "Admin": 13357,
+   "Grade": 10,
+   "Reg": "TV",
+   "DOB": "2005/05/05",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DLADLA",
+   "First Name": "ALWANDE MQOBI",
+   "Admin": 14045,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2003/12/29",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "FAKUDE",
+   "First Name": "UNATHI NKAZIMULO",
+   "Admin": 13340,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/02/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "GALLIAS",
+   "First Name": "JORJA ELIZABETH",
+   "Admin": 13411,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/03/15",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HANN",
+   "First Name": "ZACK ANTHONY",
+   "Admin": 13347,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2006/02/21",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KASPERS",
+   "First Name": "COURTNEY CALE",
+   "Admin": 13273,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/02/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KHUMALO",
+   "First Name": "AYABONGA",
+   "Admin": 13332,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/07/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "LESCH",
+   "First Name": "KERRY BETH",
+   "Admin": 13251,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2004/12/14",
+   "House": "Delport"
+ },
+ {
+   "Surname": "LIEF",
+   "First Name": "ARRYN JETHRO",
+   "Admin": 13239,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/05/05",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MAISTRY",
+   "First Name": "NISHREYA",
+   "Admin": 13247,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/06/27",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MAJOLA",
+   "First Name": "LUYANDA",
+   "Admin": 13420,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/07/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MBANDA",
+   "First Name": "EZEKHETHELO ZINHLE",
+   "Admin": 13442,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/09/26",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MDHLOLO",
+   "First Name": "ABAHLE SIMPSON JUNIOR",
+   "Admin": 13313,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2006/02/14",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MOTAUNG",
+   "First Name": "SIPHOKAZI MMABATHO",
+   "Admin": 13118,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2004/06/10",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MTSHALI",
+   "First Name": "WANGA NOMSHADO",
+   "Admin": 13969,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2004/09/05",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "PARTRIDGE",
+   "First Name": "LETESIA CLARICE",
+   "Admin": 13328,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/05/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SITHOLE",
+   "First Name": "MNQOBI ANELE",
+   "Admin": 13422,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/08/10",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SMITH",
+   "First Name": "KENAN JOHN",
+   "Admin": 13199,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/09/29",
+   "House": "Delport"
+ },
+ {
+   "Surname": "TANWAR",
+   "First Name": "DEEKSHA",
+   "Admin": 13742,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2006/08/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "TESSELAAR",
+   "First Name": "MIA MIKYLE",
+   "Admin": 13283,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2006/01/03",
+   "House": "Delport"
+ },
+ {
+   "Surname": "VAN DER MERWE",
+   "First Name": "MITCHELL",
+   "Admin": 13223,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/10/10",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "VAN RENSBURG",
+   "First Name": "CHLOE SKYE",
+   "Admin": 13219,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/04/30",
+   "House": "Delport"
+ },
+ {
+   "Surname": "VENTER",
+   "First Name": "CRAIG",
+   "Admin": 13383,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/03/02",
+   "House": "Delport"
+ },
+ {
+   "Surname": "VILAKAZI",
+   "First Name": "ZENANDE ASIPHE",
+   "Admin": 13337,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/06/03",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "VISAGIE",
+   "First Name": "KENDRA JADE",
+   "Admin": 13257,
+   "Grade": 10,
+   "Reg": "YD",
+   "DOB": "2005/01/18",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "ANELE LUNGISWA",
+   "Admin": 13463,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2003/08/21",
+   "House": "Delport"
+ },
+ {
+   "Surname": "FOX",
+   "First Name": "JODI TAYLOR",
+   "Admin": 13079,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/09/14",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "FREESE",
+   "First Name": "KAYLEIGH DIANA",
+   "Admin": 12963,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/11/02",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "GILKS",
+   "First Name": "NIKITA ANNE",
+   "Admin": 12985,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/04/08",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KEATING",
+   "First Name": "TIA GENEVIEVE",
+   "Admin": 13085,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/12/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KHUPHIMPI",
+   "First Name": "YANDISA",
+   "Admin": 13114,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/09/11",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KIRKIRIDIS",
+   "First Name": "RACHEL SIMONE",
+   "Admin": 12913,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/11/18",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KO",
+   "First Name": "JOB",
+   "Admin": 13741,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/01/18",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KOLOBE",
+   "First Name": "KARABO",
+   "Admin": 12999,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/12/02",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "LANGFORD",
+   "First Name": "ERIN HANNAH ROSE",
+   "Admin": 13190,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/03/12",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "LENDON",
+   "First Name": "KIERA JULYN",
+   "Admin": 13051,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/05/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "LILLY",
+   "First Name": "JESSICA TAYLOR",
+   "Admin": 13743,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/09/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MAJOLA",
+   "First Name": "LUYANDA INNOCENTIA",
+   "Admin": 12958,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/04/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MATHEBULA",
+   "First Name": "ALICE RUTH HLAMALANI",
+   "Admin": 13016,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/08/31",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MFAZWE",
+   "First Name": "UNATHI",
+   "Admin": 12932,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/05/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MULDER",
+   "First Name": "LINDA CHINE YUREESE",
+   "Admin": 14086,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2028/07/04",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MUNRO",
+   "First Name": "AARON NOAH",
+   "Admin": 13066,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/10/04",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "NKANYISO MLONDI",
+   "Admin": 12665,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2003/01/21",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NTULI",
+   "First Name": "AMAHLE",
+   "Admin": 13011,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2005/03/28",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "PHOSWE",
+   "First Name": "MANDISA",
+   "Admin": 13261,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2003/11/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "QUINTAL",
+   "First Name": "DIEGO DE CARVALHO",
+   "Admin": 13027,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/12/27",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ROPER",
+   "First Name": "TRAVIS JAYDEN",
+   "Admin": 13034,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/06/28",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SAPET",
+   "First Name": "JEAN-MARC",
+   "Admin": 13718,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/07/27",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SCHOEMAN",
+   "First Name": "KAID AUBREY",
+   "Admin": 12919,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/09/07",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SHEPPERSON",
+   "First Name": "TIA ANDREA",
+   "Admin": 12910,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/01/05",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SMITH",
+   "First Name": "KIRSTEN KAYLIN",
+   "Admin": 13469,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/06/28",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SOLOMON",
+   "First Name": "KYLE",
+   "Admin": 13041,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/07/15",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "TYIZA",
+   "First Name": "PHILANI",
+   "Admin": 13103,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/04/13",
+   "House": "Delport"
+ },
+ {
+   "Surname": "VAN NIEKERK",
+   "First Name": "JAMIE",
+   "Admin": 14050,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/10/19",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "WILSON",
+   "First Name": "MICAH",
+   "Admin": 13093,
+   "Grade": 11,
+   "Reg": "EB",
+   "DOB": "2004/07/02",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "ABRAHAMS",
+   "First Name": "GAILIN TIFFANY",
+   "Admin": 13086,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/04/13",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ALDWORTH",
+   "First Name": "STACEY JANE",
+   "Admin": 13042,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/03/31",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BUNCE",
+   "First Name": "AMBER LOUISE",
+   "Admin": 12977,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/06/15",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BURWOOD",
+   "First Name": "CAITLYN SARAH",
+   "Admin": 12971,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/02/21",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BUTHELEZI",
+   "First Name": "SAMKELO UNATHI",
+   "Admin": 12968,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2005/02/18",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "CAMERON",
+   "First Name": "STEPHANIE RACHEL",
+   "Admin": 13005,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/11/05",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CLARKE",
+   "First Name": "GABRIELLA INDIA WYNNE",
+   "Admin": 13068,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/03/31",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DAVIDSON",
+   "First Name": "CAMERON",
+   "Admin": 13069,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/09/30",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "FABBY",
+   "First Name": "MONTANA",
+   "Admin": 12956,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/02/23",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GALLEYMORE",
+   "First Name": "MAKAYLA MELISSA",
+   "Admin": 12908,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/11/24",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HOMEN GOUVEIA",
+   "First Name": "SHELDON CHRISTOPHER",
+   "Admin": 13055,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/10/21",
+   "House": "Delport"
+ },
+ {
+   "Surname": "JACOBS",
+   "First Name": "MELISSA",
+   "Admin": 12983,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/08/17",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KERR",
+   "First Name": "MORGAN DONEA",
+   "Admin": 14081,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/05/30",
+   "House": "Delport"
+ },
+ {
+   "Surname": "LARKAN",
+   "First Name": "KIRSTEN",
+   "Admin": 12973,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/10/14",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MANNING",
+   "First Name": "TAMSIN HELEN",
+   "Admin": 12965,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/06/05",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MITCHELL",
+   "First Name": "LUKE BARRIE",
+   "Admin": 12984,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/01/19",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MOONSAMY",
+   "First Name": "BIANCA GABRIELLE",
+   "Admin": 12909,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/05/13",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MULLER",
+   "First Name": "MICHAEL",
+   "Admin": 12975,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/09/13",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NWEKE",
+   "First Name": "IFEOMA",
+   "Admin": 13018,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/07/23",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ODENDAL",
+   "First Name": "LOURIECE",
+   "Admin": 13745,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/08/18",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "PADAYACHEE",
+   "First Name": "CHLOE ELIZABETH",
+   "Admin": 12937,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/10/22",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "PERUMAL",
+   "First Name": "IVANA",
+   "Admin": 12896,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/01/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "PHEWA",
+   "First Name": "KHETHELO SIBONGOKUHLE",
+   "Admin": 13039,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/08/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SAUNDERS",
+   "First Name": "PAIGE JORDAN",
+   "Admin": 13714,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/09/08",
+   "House": "Delport"
+ },
+ {
+   "Surname": "STRYDOM",
+   "First Name": "CASEY ANGELA",
+   "Admin": 13762,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/04/18",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SWAN",
+   "First Name": "MICHAELA JAYNE",
+   "Admin": 12966,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2003/10/28",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SYED",
+   "First Name": "AADIL",
+   "Admin": 12964,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/12/13",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WRIGHT",
+   "First Name": "GABRIELLE GRACE",
+   "Admin": 13102,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2004/09/22",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ZIKHALI",
+   "First Name": "LAFIKA",
+   "Admin": 13472,
+   "Grade": 11,
+   "Reg": "GP",
+   "DOB": "2005/02/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BEAVIS",
+   "First Name": "KEEGAN MARK",
+   "Admin": 12987,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/09/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BELL",
+   "First Name": "PAIGE AMBER",
+   "Admin": 13037,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/07/14",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BOTHA",
+   "First Name": "JESSICA LYNETTE",
+   "Admin": 12897,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/07/01",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BROWN",
+   "First Name": "HANNAH JADE",
+   "Admin": 13017,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/07/06",
+   "House": "Delport"
+ },
+ {
+   "Surname": "DAVIDSON",
+   "First Name": "PAIGE ANN",
+   "Admin": 13121,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/08/25",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "NQUBEKO",
+   "Admin": 12978,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2005/01/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DOUGLAS",
+   "First Name": "RACHAEL SIAN",
+   "Admin": 13043,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/06/17",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GUMEDE",
+   "First Name": "KHAYELIHLE EARL",
+   "Admin": 14028,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/10/15",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KEATING",
+   "First Name": "CHEYANNE",
+   "Admin": 13029,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/06/17",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KHUBONI",
+   "First Name": "AVELA",
+   "Admin": 13171,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2003/08/20",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MAJOLA",
+   "First Name": "AYAKHA SANDISIWE",
+   "Admin": 13112,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/08/11",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MAJOLA",
+   "First Name": "SIBONGUMKHULEKO NONTOKOZO",
+   "Admin": 13058,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/08/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MC PHAIL",
+   "First Name": "CALEB JAMES",
+   "Admin": 13109,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/07/14",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MCHUNU",
+   "First Name": "CANDICE AMAHLE",
+   "Admin": 12942,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/08/07",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MNGALAVU",
+   "First Name": "LINDA",
+   "Admin": 13107,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2003/10/23",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MTHEMBU",
+   "First Name": "OLWETHU JUNIOR",
+   "Admin": 13075,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2005/05/06",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NDEBELE",
+   "First Name": "THANDOLWETHU NOKUBONGA",
+   "Admin": 12949,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/05/26",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NTSELE",
+   "First Name": "NTAKASO APHIWE",
+   "Admin": 13073,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/09/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "PATTISON",
+   "First Name": "BRAD-LEE GEORGE",
+   "Admin": 12892,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2002/09/22",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "PHEWA",
+   "First Name": "MALUSI LIFA EMMANUEL",
+   "Admin": 13123,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/04/04",
+   "House": "Delport"
+ },
+ {
+   "Surname": "PIPER",
+   "First Name": "MATT",
+   "Admin": 13074,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/08/19",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SADABIRICH",
+   "First Name": "TASHMIKA",
+   "Admin": 13467,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/07/06",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SWANEPOEL",
+   "First Name": "ZAYLEE",
+   "Admin": 13032,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/10/14",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "VAN DER MERWE",
+   "First Name": "ELLAH ROBERTA",
+   "Admin": 13031,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/08/24",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "WICHMANN",
+   "First Name": "TARA STORM",
+   "Admin": 13050,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/10/15",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WILLIAMS",
+   "First Name": "GABRIELLA",
+   "Admin": 13104,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2005/03/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "WOODS",
+   "First Name": "DESTINY TEHILLA",
+   "Admin": 12989,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2004/10/15",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "WRIGHT",
+   "First Name": "COURTNEY MAY",
+   "Admin": 13160,
+   "Grade": 11,
+   "Reg": "JC",
+   "DOB": "2003/12/18",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "ATKINS",
+   "First Name": "AIDEN",
+   "Admin": 13753,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/05/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BERLOUIS",
+   "First Name": "HAILEY KATHLEEN",
+   "Admin": 13087,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/03/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "CHOWLES",
+   "First Name": "TIMOTHY ANDREW",
+   "Admin": 12995,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/11/16",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "COOMBE",
+   "First Name": "SARAH ELIZABETH",
+   "Admin": 12950,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/02/17",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DU PLOOY",
+   "First Name": "DEWALDT",
+   "Admin": 12946,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/06/12",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DUKE",
+   "First Name": "ANGELA LARNA",
+   "Admin": 13343,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/04/05",
+   "House": "Delport"
+ },
+ {
+   "Surname": "FELGATE",
+   "First Name": "JAMIE-LEAH",
+   "Admin": 12923,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/01/12",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HOSKINS",
+   "First Name": "EDEN ZOE HANNAH",
+   "Admin": 13000,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/10/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "JERG",
+   "First Name": "TAYA KAELYN",
+   "Admin": 12986,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2005/02/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KEATING",
+   "First Name": "MIKA JANELLE",
+   "Admin": 13004,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/12/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "LLOYD",
+   "First Name": "STEVEN DYLAN",
+   "Admin": 12929,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2003/06/12",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MABHIDA",
+   "First Name": "AKHONA AMANDA",
+   "Admin": 12957,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2005/02/06",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MASSEY-HICKS",
+   "First Name": "QUINN",
+   "Admin": 14070,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/05/16",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MCHUNU",
+   "First Name": "SIYAMTHEMBA NOBUHLE",
+   "Admin": 12902,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/01/06",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MHLONGO",
+   "First Name": "LETHOKUHLEKONKE",
+   "Admin": 12918,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/06/14",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "SINAYE AMAHLE ASANDA",
+   "Admin": 13024,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/08/03",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NAICKER",
+   "First Name": "CADEN TRISTAN",
+   "Admin": 14080,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/05/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NDAWONDE",
+   "First Name": "BONGIWE",
+   "Admin": 13019,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2003/10/06",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NYANDA",
+   "First Name": "AMAHLE ASANDA",
+   "Admin": 13117,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/04/19",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "PHETHA",
+   "First Name": "LINDELWA NWABISA",
+   "Admin": 12924,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/10/23",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "RAMSDEN",
+   "First Name": "AMBER CINDY",
+   "Admin": 12935,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/09/23",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SHEPPERSON",
+   "First Name": "ZOE MEGAN",
+   "Admin": 12911,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/01/05",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SWIFT",
+   "First Name": "JOSHUA GLEN",
+   "Admin": 12967,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/12/10",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "WADE",
+   "First Name": "KEAGAN GARETH",
+   "Admin": 13080,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/06/08",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "WAKEFORD",
+   "First Name": "KAELIN",
+   "Admin": 13060,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/10/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WARD",
+   "First Name": "SADIE ROSE",
+   "Admin": 13015,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/05/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WEBBER",
+   "First Name": "HANNAH DARIYAN",
+   "Admin": 12895,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/03/18",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "XABA",
+   "First Name": "YOLANDA",
+   "Admin": 13105,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2004/11/29",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "ZUMA",
+   "First Name": "SNAZO ELIHLE",
+   "Admin": 12981,
+   "Grade": 11,
+   "Reg": "JR",
+   "DOB": "2005/06/09",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CLARK",
+   "First Name": "DANIEL JORDAN",
+   "Admin": 12920,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/07/09",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DE KOCK",
+   "First Name": "JENNIFER",
+   "Admin": 13866,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2003/10/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ENGEL",
+   "First Name": "CONNOR DANIEL",
+   "Admin": 12961,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/08/20",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ERASMUS",
+   "First Name": "ROWAN JUSTIN",
+   "Admin": 13049,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/05/07",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GUMEDE",
+   "First Name": "SIPHOSIHLE DANIEL",
+   "Admin": 12996,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2003/09/22",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "HADEBE",
+   "First Name": "LIHLE LUTHANDO",
+   "Admin": 12827,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/02/14",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KHUMALO",
+   "First Name": "APHIWE CALVIN",
+   "Admin": 13120,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2003/03/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MABASO",
+   "First Name": "AMAHLE BUSISIWE",
+   "Admin": 13771,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/12/28",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MAZIBUKO",
+   "First Name": "SIYETHEMBA",
+   "Admin": 13761,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2005/02/25",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MBAMBO",
+   "First Name": "AMAHLE LONDEKA",
+   "Admin": 12982,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/01/15",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MC LELLAN",
+   "First Name": "TRISTAN JAMES",
+   "Admin": 13779,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/04/23",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MPUNGOSE",
+   "First Name": "SISANDA ENGELA",
+   "Admin": 13012,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/11/08",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MTHIYA",
+   "First Name": "NANDI SAMUKELISIWE",
+   "Admin": 13038,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/07/12",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NAICKER",
+   "First Name": "CAITLYN KRISTEN",
+   "Admin": 14079,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/05/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "NOMVELO",
+   "Admin": 13033,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2003/11/11",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "THEMBALIKHONA ISILDO",
+   "Admin": 12871,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2002/12/21",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "ZOLEKA PATIENCE",
+   "Admin": 12970,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/01/23",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NGIDI",
+   "First Name": "AYEZA ANDISWA",
+   "Admin": 12941,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2002/08/05",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NGIDI",
+   "First Name": "NGCEBO LINDELWA",
+   "Admin": 13070,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/08/26",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "OLIVIER",
+   "First Name": "NATHAN",
+   "Admin": 14084,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2003/04/14",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "PEATTIE",
+   "First Name": "JESSICA ANN",
+   "Admin": 12901,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/03/03",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SCHREINER",
+   "First Name": "KENDRA LAYLA",
+   "Admin": 13122,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/01/26",
+   "House": "Delport"
+ },
+ {
+   "Surname": "TEMBE",
+   "First Name": "SIHLE",
+   "Admin": 12832,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2003/08/18",
+   "House": "Delport"
+ },
+ {
+   "Surname": "THABETHE",
+   "First Name": "THABISO VUYO",
+   "Admin": 13001,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/05/25",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "WATKINS",
+   "First Name": "BRYAN LEONARD",
+   "Admin": 12925,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/07/20",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "WHITE",
+   "First Name": "CAMERON",
+   "Admin": 12580,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2003/07/15",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ZUNGU",
+   "First Name": "THOBELANI",
+   "Admin": 12926,
+   "Grade": 11,
+   "Reg": "LD",
+   "DOB": "2004/07/29",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "ALLBON",
+   "First Name": "DANIELLA PAIGE",
+   "Admin": 13145,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2003/07/28",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BENADE",
+   "First Name": "NATHAN ALBERTUS",
+   "Admin": 13143,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2002/01/07",
+   "House": "Delport"
+ },
+ {
+   "Surname": "DE ALMEIDA",
+   "First Name": "JOSHUA ALEXANDRO",
+   "Admin": 12899,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2004/08/18",
+   "House": "Delport"
+ },
+ {
+   "Surname": "DELPORT",
+   "First Name": "MEEKA",
+   "Admin": 13466,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2004/02/17",
+   "House": "Delport"
+ },
+ {
+   "Surname": "DUIGAN",
+   "First Name": "TATE ANTHONY COUCH CAMPBELL",
+   "Admin": 13731,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2004/03/17",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "FARMER",
+   "First Name": "KYE TRISTAN",
+   "Admin": 12689,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2003/10/06",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GILLESPIE",
+   "First Name": "ADAM BYRNE",
+   "Admin": 13142,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2002/06/12",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "GOSHA",
+   "First Name": "ALISTER MUNYARADZI",
+   "Admin": 12684,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2003/05/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GROVE-MITCHELL",
+   "First Name": "ALEXANDER JACQ",
+   "Admin": 13342,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2003/10/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "HARRIS",
+   "First Name": "EHREN",
+   "Admin": 12356,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2002/11/09",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HIGGITT",
+   "First Name": "KADE MARC",
+   "Admin": 13130,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2003/09/26",
+   "House": "Delport"
+ },
+ {
+   "Surname": "INGLE",
+   "First Name": "ANDREW MARK",
+   "Admin": 12617,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2003/03/03",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MCOYI",
+   "First Name": "MELUSI",
+   "Admin": 13194,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2004/06/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MEREDITH",
+   "First Name": "DYLAN TED",
+   "Admin": 12673,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2001/12/09",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MULLER",
+   "First Name": "TRISTON THEUNIS",
+   "Admin": 13131,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2003/09/29",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "PERLSTEIN",
+   "First Name": "HEATH TROY PETER",
+   "Admin": 13155,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2004/12/05",
+   "House": "Delport"
+ },
+ {
+   "Surname": "PHILLIPS",
+   "First Name": "ERIN ROSE",
+   "Admin": 13132,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2004/05/30",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ROBERTS",
+   "First Name": "JUSTIN TREY",
+   "Admin": 13139,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2004/01/29",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SCHOLTZ",
+   "First Name": "JOSHUA DAKOTA",
+   "Admin": 13128,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2004/02/18",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SMITH",
+   "First Name": "TIYANA GISELLE",
+   "Admin": 13780,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2005/01/21",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "STONE",
+   "First Name": "DAMION TYRON",
+   "Admin": 12833,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2002/09/11",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "THALDAR GERMISHUIZEN",
+   "First Name": "RICCARDO",
+   "Admin": 12954,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2004/09/20",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "WALFORD",
+   "First Name": "DAMIEN CHRISTOPHER",
+   "Admin": 13138,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2004/07/23",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "WHEATCROFT",
+   "First Name": "CAMERON BRETT",
+   "Admin": 13438,
+   "Grade": 11,
+   "Reg": "ML",
+   "DOB": "2003/07/01",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ADRUTHKUMAR",
+   "First Name": "KASH AIDEN",
+   "Admin": 12953,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/03/08",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BARTHUS",
+   "First Name": "JOSHUA ANTONIO",
+   "Admin": 13456,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/11/11",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BECKER",
+   "First Name": "ALICIA JENNA",
+   "Admin": 12903,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2003/03/16",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BOSHOFF",
+   "First Name": "TYRONE RUSSEL",
+   "Admin": 13091,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/10/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "CARLYLE",
+   "First Name": "RYAN DEREK",
+   "Admin": 13119,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/03/24",
+   "House": "Delport"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "LWANDILE ABAHLE",
+   "Admin": 12773,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2003/09/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "DU PLESSIS",
+   "First Name": "JACQUES",
+   "Admin": 13062,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/07/02",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DUMA",
+   "First Name": "STHANDIWE NOMZAMO",
+   "Admin": 12933,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/08/08",
+   "House": "Delport"
+ },
+ {
+   "Surname": "FEVRIER",
+   "First Name": "MICHAELL NICOLA",
+   "Admin": 13471,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/07/23",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "GEEL",
+   "First Name": "NATHAN SAUL",
+   "Admin": 13543,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/06/18",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GRAHAM",
+   "First Name": "CATHERINE ALICIA",
+   "Admin": 12817,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2003/02/12",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HOBBES",
+   "First Name": "JETHRO JOEL",
+   "Admin": 13063,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/06/04",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "HOLBROOK",
+   "First Name": "CULLAN GRANT",
+   "Admin": 13045,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/08/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "JUGDEESH",
+   "First Name": "DHIYA",
+   "Admin": 13076,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/03/17",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KHANYILE",
+   "First Name": "KHANYISA",
+   "Admin": 13083,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2005/05/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "LIEBENBERG",
+   "First Name": "KATELYN JADE",
+   "Admin": 13025,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2005/02/25",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MAGWAZA",
+   "First Name": "APHIWE NOMVELO",
+   "Admin": 12994,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/11/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MALEMBE",
+   "First Name": "MARTIN THABANI JUNIOR",
+   "Admin": 13413,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2005/04/30",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "LWAZI LESLEY",
+   "Admin": 12710,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2003/11/15",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MKHWANAZI",
+   "First Name": "SAMKELO ZAMANKWALI",
+   "Admin": 12934,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/04/03",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MLOTSHWA",
+   "First Name": "BANELE NOMUSA",
+   "Admin": 13158,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/04/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MOODLEY",
+   "First Name": "JADENE CARMEN",
+   "Admin": 13020,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/01/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MOOLMAN",
+   "First Name": "DANIQUE LOUISE",
+   "Admin": 13405,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/06/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "PANDLE",
+   "First Name": "NTOMB'ZANDILE LUVUYO",
+   "Admin": 12962,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/12/08",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SYERS",
+   "First Name": "HANNAH",
+   "Admin": 13061,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2003/07/21",
+   "House": "Delport"
+ },
+ {
+   "Surname": "THABETHE",
+   "First Name": "NTANDO",
+   "Admin": 13402,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/07/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "VASA RAMADU",
+   "First Name": "JOSIAH ETHAN",
+   "Admin": 12997,
+   "Grade": 11,
+   "Reg": "MO",
+   "DOB": "2004/05/11",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BUCKLEY",
+   "First Name": "SHANNON JANE",
+   "Admin": 13576,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/05/07",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "CELE",
+   "First Name": "LWAZI",
+   "Admin": 13009,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2002/10/29",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DAVIES",
+   "First Name": "DEKLAN ALAN",
+   "Admin": 12912,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/06/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DENNISON",
+   "First Name": "NATALIE CATHERINE",
+   "Admin": 13081,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2005/01/29",
+   "House": "Delport"
+ },
+ {
+   "Surname": "EVANGELISTA",
+   "First Name": "BEN EDWARD",
+   "Admin": 13302,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/04/15",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "EVANS",
+   "First Name": "JADEN JETT",
+   "Admin": 12927,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/12/10",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "FOULIS",
+   "First Name": "TRISTAN",
+   "Admin": 13036,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/10/10",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GOVENDER",
+   "First Name": "MATTHEW LEE",
+   "Admin": 13035,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2005/03/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GOVENDER",
+   "First Name": "ROBEKAH JADE",
+   "Admin": 13090,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/04/12",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HLENGWA",
+   "First Name": "ANELE",
+   "Admin": 12993,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/10/08",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HOBBES",
+   "First Name": "SAM DANIEL",
+   "Admin": 13064,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/06/04",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MASSEY",
+   "First Name": "CONNER SHAW",
+   "Admin": 13097,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2003/03/20",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MEMELA",
+   "First Name": "APHELELE SAMUKELO",
+   "Admin": 13162,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2005/05/14",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MEYIWA",
+   "First Name": "OKUHLEKODWA ASIBONGE",
+   "Admin": 12960,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/07/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MOKOENA",
+   "First Name": "AVIWE SIPHUMELELE",
+   "Admin": 13078,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/11/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MOMOH",
+   "First Name": "BLESSING CHINYERE",
+   "Admin": 13092,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/05/08",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MORRISON",
+   "First Name": "MATTHEW SCOTT",
+   "Admin": 13054,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/08/30",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MPUNGOSE",
+   "First Name": "KHETHELO",
+   "Admin": 13098,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/08/13",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MQADI",
+   "First Name": "SANDISWA",
+   "Admin": 13754,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/09/09",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NDAWONDE",
+   "First Name": "PHUMLA",
+   "Admin": 13183,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/04/20",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NTSHANGASE",
+   "First Name": "ALIZWA",
+   "Admin": 12969,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2003/05/31",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "OATES",
+   "First Name": "AMBER",
+   "Admin": 13100,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2005/01/14",
+   "House": "Delport"
+ },
+ {
+   "Surname": "RODE",
+   "First Name": "TAMARA",
+   "Admin": 13057,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/01/16",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SHEZI",
+   "First Name": "SABELO SIPHESIHLE",
+   "Admin": 13014,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/09/11",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SPOWART",
+   "First Name": "ETHAN LEX",
+   "Admin": 12998,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/12/01",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "VOGES",
+   "First Name": "MATTHEW WILLIAM",
+   "Admin": 13972,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/12/06",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "WERNER",
+   "First Name": "SAMANTHA JOCELYN",
+   "Admin": 12930,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/06/25",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "ZAMA",
+   "First Name": "SANDISE",
+   "Admin": 13168,
+   "Grade": 11,
+   "Reg": "NM",
+   "DOB": "2004/01/05",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BASTERMAN",
+   "First Name": "MARSALO LORANN",
+   "Admin": 13351,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/04/03",
+   "House": "Delport"
+ },
+ {
+   "Surname": "CHAITHRAM",
+   "First Name": "SHAYUR",
+   "Admin": 13366,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2004/04/29",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "CHIRKUT",
+   "First Name": "ELISHA CHERYS",
+   "Admin": 12636,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/10/27",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "SIPHOKAZI",
+   "Admin": 12796,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/12/20",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ESTERHUIZEN",
+   "First Name": "CLARA",
+   "Admin": 12766,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/06/30",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "GOODWIN",
+   "First Name": "CARMEN ALEXANDRA",
+   "Admin": 12680,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2004/05/20",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GOVINDASAMY",
+   "First Name": "JAYRAD MATTHEW",
+   "Admin": 12848,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2004/01/13",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "HLENGWA",
+   "First Name": "AMAHLE SINETHEMBA",
+   "Admin": 12674,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/09/16",
+   "House": "Delport"
+ },
+ {
+   "Surname": "LOTTERING",
+   "First Name": "ASHLYN YVONNE",
+   "Admin": 12755,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2004/04/06",
+   "House": "Delport"
+ },
+ {
+   "Surname": "LOWRY-NIEMANDT",
+   "First Name": "BETHANY ROSE",
+   "Admin": 12594,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/07/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MAHARAJ",
+   "First Name": "KHIARA TIANNA",
+   "Admin": 12824,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/08/12",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MAPHUMULO",
+   "First Name": "ASANDE",
+   "Admin": 12841,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2004/06/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MAYHEW",
+   "First Name": "TAIT LEONARD",
+   "Admin": 12748,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2002/10/13",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MCHUNU",
+   "First Name": "ANDISA OWETHU",
+   "Admin": 12652,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/05/10",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MDIMA",
+   "First Name": "PHILASANDE THEMBELIHLE",
+   "Admin": 12828,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2004/01/12",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MOODLEY",
+   "First Name": "HEYLENE TIARA",
+   "Admin": 14085,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2004/03/25",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NAICKER",
+   "First Name": "ISABELLE ROSE",
+   "Admin": 13448,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/09/30",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "PHUMELELE",
+   "Admin": 12772,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/05/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NKOSI",
+   "First Name": "ENZOKUHLE SNESIPHO",
+   "Admin": 12646,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/12/26",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NTOMBELA",
+   "First Name": "NONTOBEKA THATO",
+   "Admin": 12778,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2004/06/27",
+   "House": "Delport"
+ },
+ {
+   "Surname": "OLDEWAGE",
+   "First Name": "CHRISTIAN GRAHAM",
+   "Admin": 12818,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2002/12/13",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "PARKER",
+   "First Name": "BRADY DEAN",
+   "Admin": 12730,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/06/30",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "PRETORIUS",
+   "First Name": "BEVAN",
+   "Admin": 12592,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/11/25",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SHABANE",
+   "First Name": "AYATHOLA",
+   "Admin": 12775,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/03/25",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WALLACE",
+   "First Name": "CHRISTOPHER JAMES",
+   "Admin": 13464,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2002/12/18",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WALLACE",
+   "First Name": "NIAMH",
+   "Admin": 12694,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/12/18",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "XABA",
+   "First Name": "NTANDO",
+   "Admin": 12769,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2003/08/04",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "ZUNGU",
+   "First Name": "MAWANDE TSILISO",
+   "Admin": 12813,
+   "Grade": 12,
+   "Reg": "AM",
+   "DOB": "2004/03/28",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BOWDEN",
+   "First Name": "KAYLEE",
+   "Admin": 12590,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2002/12/07",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "COOPER",
+   "First Name": "BRADLEY MICHAEL",
+   "Admin": 12809,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/10/26",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DLAMINI",
+   "First Name": "SIZWE SIPHUMELELE AZANDE",
+   "Admin": 13415,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/05/26",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DUPUY",
+   "First Name": "DREW STUART",
+   "Admin": 13400,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2002/07/19",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HERBERT",
+   "First Name": "ASHLEE SARAH",
+   "Admin": 12638,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/10/23",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "JANSEN VAN RENSBURG",
+   "First Name": "CHRISTO",
+   "Admin": 12582,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/08/27",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "JANSEN VAN VUREN",
+   "First Name": "CALDON NICOLAS",
+   "Admin": 12690,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/03/25",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "KHANYILE",
+   "First Name": "AKHIWE",
+   "Admin": 12625,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/01/12",
+   "House": "Delport"
+ },
+ {
+   "Surname": "LAVENDER",
+   "First Name": "JONATHAN DAVID",
+   "Admin": 12631,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/06/11",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "LEDEBOER",
+   "First Name": "KIMBERLEY JADE",
+   "Admin": 12659,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/12/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MC MURTRIE",
+   "First Name": "JADE LACEY",
+   "Admin": 12736,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2004/03/09",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MIYA",
+   "First Name": "CHUMA ZENALA",
+   "Admin": 12788,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/10/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "MBALI",
+   "Admin": 12743,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2004/03/05",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MKIZE",
+   "First Name": "SINDISWA ZINHLE",
+   "Admin": 12820,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/03/23",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MOKOATLE",
+   "First Name": "RETHABILE DIKGAHLISO",
+   "Admin": 12712,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/01/25",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MOLEFE",
+   "First Name": "STHEMBILE LERATO",
+   "Admin": 12663,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2004/03/11",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MTOLO",
+   "First Name": "SBONGAKONKE MBALI",
+   "Admin": 12703,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2004/06/13",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NTULI",
+   "First Name": "SBIKEZELO MPILWENHLE ANDILE",
+   "Admin": 13188,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2002/10/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "OLIVER",
+   "First Name": "DANIELLE GERLIND",
+   "Admin": 12718,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/01/27",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "O'SHAUGHNESSY",
+   "First Name": "JESSICA MONICA",
+   "Admin": 12719,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2004/02/17",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SAPEPA",
+   "First Name": "AKHANANI",
+   "Admin": 13727,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/01/31",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SEITI",
+   "First Name": "DANIEL NEO",
+   "Admin": 12806,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/04/11",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SHANGE",
+   "First Name": "TUSOKUHLE",
+   "Admin": 12843,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2001/09/26",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SIBAYA",
+   "First Name": "KAYALIHLE KEMOAMOGETSE",
+   "Admin": 13774,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2002/05/11",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SINGH",
+   "First Name": "KEZIAH",
+   "Admin": 12844,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2003/09/02",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "WHITE",
+   "First Name": "ABIGAIL CHLOE MARGARET",
+   "Admin": 12733,
+   "Grade": 12,
+   "Reg": "GG",
+   "DOB": "2002/11/13",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BISSETT",
+   "First Name": "DYLAN SEAN",
+   "Admin": 12786,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/04/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "COURTIS",
+   "First Name": "MATHEW GRANT",
+   "Admin": 12717,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/04/17",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DE ALMEIDA",
+   "First Name": "DIEGO KEEGAN ANTONIO",
+   "Admin": 12740,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/07/10",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "DUFFIELD",
+   "First Name": "MEGAN",
+   "Admin": 12618,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2002/12/27",
+   "House": "Delport"
+ },
+ {
+   "Surname": "FEATHERBY",
+   "First Name": "JESSICA LEE",
+   "Admin": 12616,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/07/27",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "GALLEYMORE",
+   "First Name": "LAYLA DAWN",
+   "Admin": 12707,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2002/10/03",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ILG",
+   "First Name": "JESSICA ROUISSE",
+   "Admin": 12697,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/04/04",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MALLON",
+   "First Name": "SHANYNNE AMBER",
+   "Admin": 12630,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2002/07/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MOLLENTZE",
+   "First Name": "RHODES MITCHELL",
+   "Admin": 12711,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2002/10/24",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MVUBU",
+   "First Name": "ZAMAZONDELA ANDISWA",
+   "Admin": 12676,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2001/11/22",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MZINDLE",
+   "First Name": "ANELE SIBUSISO",
+   "Admin": 12162,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2000/03/08",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NTAKA",
+   "First Name": "SIYANDA LUSIZO",
+   "Admin": 12854,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2002/09/23",
+   "House": "Delport"
+ },
+ {
+   "Surname": "OLIVIER",
+   "First Name": "CHANEL DESRE",
+   "Admin": 13783,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/04/14",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "OUZMAN",
+   "First Name": "JOSHUA JOHN",
+   "Admin": 13777,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/10/22",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "PIENAAR",
+   "First Name": "JOSHUA ADRIAN",
+   "Admin": 13144,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/09/04",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "PIETERS",
+   "First Name": "LUKE SKYE",
+   "Admin": 12681,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/04/08",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "REEVES",
+   "First Name": "ASHLEIGH JENNA",
+   "Admin": 12855,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/03/26",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "STRYDOM",
+   "First Name": "ETHAN",
+   "Admin": 12603,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/07/03",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SUTTIE",
+   "First Name": "DYLAN DAVID",
+   "Admin": 12508,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2001/11/08",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "VAN DYK",
+   "First Name": "ALEC COENRAAD",
+   "Admin": 12593,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/04/13",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "VAN ROOYEN",
+   "First Name": "MATTHEW DANIEL",
+   "Admin": 12620,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/04/02",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "VINNICOMBE",
+   "First Name": "HAYLEY",
+   "Admin": 12808,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/12/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "VOGELZANG",
+   "First Name": "SLADE",
+   "Admin": 12619,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/01/21",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "WHITAKER",
+   "First Name": "EMILY ANNE",
+   "Admin": 12650,
+   "Grade": 12,
+   "Reg": "KW",
+   "DOB": "2003/04/19",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ANANTH",
+   "First Name": "KALIN",
+   "Admin": 12585,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2004/01/11",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BARENDSE",
+   "First Name": "TAETYM LANA",
+   "Admin": 12734,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/12/31",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BENJAMIN",
+   "First Name": "JORDAN ZION",
+   "Admin": 13787,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/12/01",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BOWDEN",
+   "First Name": "CHLOE",
+   "Admin": 12589,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2002/12/07",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CIUTTO",
+   "First Name": "LEAH SANDRA",
+   "Admin": 12664,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/12/24",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DE VILLIERS",
+   "First Name": "RICARDO",
+   "Admin": 13169,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/01/07",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "FRYER",
+   "First Name": "JESSI ELLEN",
+   "Admin": 12685,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/08/13",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HADEBE",
+   "First Name": "LINDOKUHLE",
+   "Admin": 13769,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2002/11/18",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HAUPT",
+   "First Name": "JULIA LOUISE",
+   "Admin": 13470,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/12/30",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KATZ",
+   "First Name": "ROZLYN PEARL",
+   "Admin": 12753,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/01/18",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MALINGA",
+   "First Name": "LUSANDA WANDILE",
+   "Admin": 12597,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2002/12/27",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MARILLIER",
+   "First Name": "SHANE",
+   "Admin": 12783,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2002/09/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MAZZONI",
+   "First Name": "PERRY MAE",
+   "Admin": 12657,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/02/16",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MBHILI",
+   "First Name": "ALWANDE",
+   "Admin": 12768,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/12/31",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MGENGE",
+   "First Name": "NOLWAZI ANGEL",
+   "Admin": 12658,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2004/06/16",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "SNEGUGU ZAMAKHIZE",
+   "Admin": 12732,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2004/03/13",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MKHUMBUZI",
+   "First Name": "THANDOLWETHU LUYANDA",
+   "Admin": 12810,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2004/01/04",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NGUBANE",
+   "First Name": "SIYAMTHANDA NHLOSWENHLE",
+   "Admin": 13406,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2004/02/12",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NHLEKO",
+   "First Name": "SIBONGAKONKE ZIPHEZIHLE",
+   "Admin": 13451,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2001/03/26",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NTULI",
+   "First Name": "LISAKHANYA",
+   "Admin": 13657,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2004/04/22",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NZAMA",
+   "First Name": "MNQOBI ZIBUKE EXCELLENT",
+   "Admin": 12758,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/07/26",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "RABILAL",
+   "First Name": "KEANE WADE",
+   "Admin": 12647,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/06/19",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "RAMSDEN",
+   "First Name": "JUSTIN CRAIG",
+   "Admin": 12889,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/01/27",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "RANDALL",
+   "First Name": "TANNAH LEIGH",
+   "Admin": 12757,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2002/12/28",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "ROBERTSON",
+   "First Name": "MICHAELA GRACE",
+   "Admin": 12682,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/10/16",
+   "House": "Delport"
+ },
+ {
+   "Surname": "VAN NIEKERK",
+   "First Name": "MEGAN LINDSAY",
+   "Admin": 12798,
+   "Grade": 12,
+   "Reg": "LM",
+   "DOB": "2003/11/05",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DAWSON",
+   "First Name": "KEELYN MARGOT",
+   "Admin": 13412,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/11/24",
+   "House": "Delport"
+ },
+ {
+   "Surname": "DLAMALALA",
+   "First Name": "LILITHA",
+   "Admin": 12754,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2002/12/21",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "ELS",
+   "First Name": "JAMIE",
+   "Admin": 12763,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/06/03",
+   "House": "Delport"
+ },
+ {
+   "Surname": "FRANKLIN",
+   "First Name": "CHARLOTTE HANNAH",
+   "Admin": 12635,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/09/18",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GRIFFIN",
+   "First Name": "JOEL PETER",
+   "Admin": 13444,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/10/27",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KUPPUSAMY",
+   "First Name": "ERIN KELLY",
+   "Admin": 13746,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/04/24",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "LAMBRECHTS",
+   "First Name": "MICHAELA LYNNE",
+   "Admin": 12759,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/09/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "LOCHNER",
+   "First Name": "DANIEL SEARLE",
+   "Admin": 12870,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/02/18",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "LOVE",
+   "First Name": "JARID ELTON",
+   "Admin": 13407,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/02/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MADONSELA",
+   "First Name": "YAMKELA SANELISIWE",
+   "Admin": 12666,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2004/02/16",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MASONDO",
+   "First Name": "SIHAWUKELWE SPHOSETHU",
+   "Admin": 12797,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2004/02/05",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MATHE",
+   "First Name": "OLWETHU",
+   "Admin": 12776,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2004/03/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MSHENGU",
+   "First Name": "LUSANDA IMANI WASHIA",
+   "Admin": 12752,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2004/03/28",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MSOMI",
+   "First Name": "NQUBEKO NIKIWE",
+   "Admin": 12639,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2002/07/26",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MUNSAUR",
+   "First Name": "MIKESHA",
+   "Admin": 12626,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/03/20",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NDIMANDE",
+   "First Name": "LUHLE LWANDISWA",
+   "Admin": 12765,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2004/03/02",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NGCOBO",
+   "First Name": "MAWANDE",
+   "Admin": 12624,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2004/03/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NTAKA",
+   "First Name": "NANDILE SINDISWA",
+   "Admin": 12655,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2002/09/23",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NZIMANDE",
+   "First Name": "SIYAMTHANDA NELISWA",
+   "Admin": 12642,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/07/14",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "OLTMANN",
+   "First Name": "RUDI WILHELM",
+   "Admin": 13724,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/04/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "REDDY",
+   "First Name": "JORDAN JOEL",
+   "Admin": 13403,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2002/11/26",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "THOMPSON",
+   "First Name": "BENJAMIN BERNARD",
+   "Admin": 12746,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/07/29",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "VAN DEN BERG",
+   "First Name": "MEGAN",
+   "Admin": 12814,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/06/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "WALSH",
+   "First Name": "NEELA",
+   "Admin": 13147,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/12/04",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "WHITE",
+   "First Name": "BIANCA MICAYLA",
+   "Admin": 12691,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/04/24",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "WILLIAMS",
+   "First Name": "AMY HANNAH",
+   "Admin": 12708,
+   "Grade": 12,
+   "Reg": "MW",
+   "DOB": "2003/09/22",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "AINHIRN",
+   "First Name": "HAYDEN COSTA",
+   "Admin": 12807,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/04/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "BARR",
+   "First Name": "ERIN FRANCES",
+   "Admin": 12629,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/10/07",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BECKER",
+   "First Name": "JORGIA MADISON",
+   "Admin": 12850,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/09/03",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BODDY",
+   "First Name": "TARYN EMILY",
+   "Admin": 12800,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/07/17",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "BROODRYK",
+   "First Name": "RUTH AMY",
+   "Admin": 12744,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/06/18",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "BUCKLEY",
+   "First Name": "MADISON JADE",
+   "Admin": 12709,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/02/19",
+   "House": "Delport"
+ },
+ {
+   "Surname": "BUTT",
+   "First Name": "CIARA DOREEN",
+   "Admin": 12749,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/08/11",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "DEMPERS",
+   "First Name": "JESSICA",
+   "Admin": 12852,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/02/03",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "HARRIS",
+   "First Name": "SETH JOHN",
+   "Admin": 12805,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/05/08",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "HIMCHALL",
+   "First Name": "NIKHIL",
+   "Admin": 13245,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/02/03",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "HOFHUIS",
+   "First Name": "BRADLEY DUNCAN",
+   "Admin": 12715,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/05/30",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "HOWARD",
+   "First Name": "VICTORIA FRANCES",
+   "Admin": 12678,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/06/20",
+   "House": "Delport"
+ },
+ {
+   "Surname": "HUNTER",
+   "First Name": "DAVID JONATHAN",
+   "Admin": 12735,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/08/28",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "JONA",
+   "First Name": "YOLISA PRECIOUS",
+   "Admin": 12705,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/09/30",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KEATING",
+   "First Name": "TORA CHENE",
+   "Admin": 12802,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/03/25",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KHUMALO",
+   "First Name": "APHIWE ANDILE SENAMILE",
+   "Admin": 12702,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2004/08/23",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KLIJNSTRA",
+   "First Name": "ANOUK BONAMU",
+   "Admin": 12605,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/11/20",
+   "House": "Delport"
+ },
+ {
+   "Surname": "KNOX-WHITEHEAD",
+   "First Name": "JORDAN",
+   "Admin": 12609,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/05/09",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MBHAMALI",
+   "First Name": "FANELE CONCILLIA",
+   "Admin": 13154,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/12/21",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MHLANGA",
+   "First Name": "MBALI SMPHIWE",
+   "Admin": 12686,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/11/22",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MKHWANAZI",
+   "First Name": "NTOBEKO SHALOM",
+   "Admin": 12823,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/12/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MODISE",
+   "First Name": "THABO",
+   "Admin": 13461,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/01/11",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "MOSS",
+   "First Name": "JARRYD JAMES",
+   "Admin": 12742,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/02/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "NDLOVU",
+   "First Name": "KHULILE PEARL",
+   "Admin": 12792,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2002/10/27",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "NKOSI",
+   "First Name": "SIZO IKANENG",
+   "Admin": 12687,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/02/10",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "OLIVER",
+   "First Name": "CAITLYN HANNAH",
+   "Admin": 12621,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/02/08",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "OLIVIER",
+   "First Name": "KATHERINE TAYLOR",
+   "Admin": 12830,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/08/30",
+   "House": "Delport"
+ },
+ {
+   "Surname": "PARKIN",
+   "First Name": "DEZ-ANN",
+   "Admin": 12819,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/03/04",
+   "House": "Delport"
+ },
+ {
+   "Surname": "PARKINSON",
+   "First Name": "MATTHEW WILLIAM",
+   "Admin": 12632,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2002/07/25",
+   "House": "Delport"
+ },
+ {
+   "Surname": "PETRONIO",
+   "First Name": "ALLYSSA LARA",
+   "Admin": 12756,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/04/17",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "RIGGS",
+   "First Name": "COURTNEY",
+   "Admin": 13728,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/11/25",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "ROUILLON",
+   "First Name": "JOCELYN",
+   "Admin": 12583,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/06/01",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SCHEEPERS",
+   "First Name": "MIGUEL CRAIG MIUDO",
+   "Admin": 12591,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2004/05/11",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SINGLETON",
+   "First Name": "SEAN BRIAN",
+   "Admin": 12815,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2002/12/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SITHOLE",
+   "First Name": "LWAZI",
+   "Admin": 12760,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/05/03",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "SMITH",
+   "First Name": "KIRA HANNAH",
+   "Admin": 12741,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/06/17",
+   "House": "Delport"
+ },
+ {
+   "Surname": "TAKADII",
+   "First Name": "NYASHA OBIDIENCE",
+   "Admin": 12767,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2002/08/10",
+   "House": "Delport"
+ },
+ {
+   "Surname": "WILSON",
+   "First Name": "JESSICA DEANNE",
+   "Admin": 12795,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/08/26",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ZHAKATA",
+   "First Name": "CYNTHIA",
+   "Admin": 12588,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2002/08/23",
+   "House": "Delport"
+ },
+ {
+   "Surname": "ZONDI",
+   "First Name": "OKWETHU SIPHELELE",
+   "Admin": 12904,
+   "Grade": 12,
+   "Reg": "PR",
+   "DOB": "2003/04/02",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "CUNINGHAM",
+   "First Name": "CAMERON BRUCE",
+   "Admin": 12726,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2002/12/19",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "DI PIETRO",
+   "First Name": "DAMICA",
+   "Admin": 12721,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/11/28",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GAMEDE",
+   "First Name": "THANDOLWETHU",
+   "Admin": 12728,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/11/27",
+   "House": "Delport"
+ },
+ {
+   "Surname": "GEBASHE",
+   "First Name": "YANDISA",
+   "Admin": 12660,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2002/11/12",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "KHANYILE",
+   "First Name": "AKHONA",
+   "Admin": 12761,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/01/19",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "KIPARSKAYA",
+   "First Name": "VALERIA KIRILLOVNA",
+   "Admin": 12688,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/03/26",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "KUBHEKA",
+   "First Name": "BUHLEBETHU LINDELWA",
+   "Admin": 12816,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/08/20",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "KUZWAYO",
+   "First Name": "NTETHELELO",
+   "Admin": 12720,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/09/09",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "LUSHOZI",
+   "First Name": "SIPHO MICHAEL",
+   "Admin": 12396,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2002/10/09",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "LUTHULI",
+   "First Name": "NOLUSINDISO AMANDA",
+   "Admin": 13462,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/09/14",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MKHIZE",
+   "First Name": "LINCOLN BONG'MUSA",
+   "Admin": 12671,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2002/07/29",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MNDAWENI",
+   "First Name": "THABANG SABUSISWA",
+   "Admin": 13165,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/09/01",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "MOGO",
+   "First Name": "TYRON ANTONY",
+   "Admin": 12811,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/07/26",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MORCK",
+   "First Name": "TAYLIA GRACE",
+   "Admin": 12845,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/04/15",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "MSOMI",
+   "First Name": "OLWETHU NKANYEZI",
+   "Admin": 12427,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2002/03/12",
+   "House": "Delport"
+ },
+ {
+   "Surname": "MTHEMBU",
+   "First Name": "LUSANDA",
+   "Admin": 12774,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/10/21",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "NENE",
+   "First Name": "WANDILE",
+   "Admin": 12762,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/01/23",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "NXASANA",
+   "First Name": "OWENKOSI",
+   "Admin": 13712,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/12/18",
+   "House": "Delport"
+ },
+ {
+   "Surname": "PETERSEN",
+   "First Name": "COLE JULIAN",
+   "Admin": 13740,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/06/30",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "RODRIGUES",
+   "First Name": "DONAVAN BETTENCOURT",
+   "Admin": 13763,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2002/12/18",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "SISHI",
+   "First Name": "ASANDA AMAHLE",
+   "Admin": 12829,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/07/03",
+   "House": "Delport"
+ },
+ {
+   "Surname": "SMITH",
+   "First Name": "JASON ALEXANDER",
+   "Admin": 12692,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/03/10",
+   "House": "Hawkins"
+ },
+ {
+   "Surname": "SOOBRAMONEY",
+   "First Name": "JADEN MARK ANTHONY",
+   "Admin": 12784,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/06/03",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "TISCHENDORF",
+   "First Name": "LAURA-ANNE",
+   "Admin": 12861,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/02/07",
+   "House": "Talbot"
+ },
+ {
+   "Surname": "VERSTER",
+   "First Name": "DAWN MONE",
+   "Admin": 12770,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/09/12",
+   "House": "Garrett"
+ },
+ {
+   "Surname": "ZITHA",
+   "First Name": "SILINDELWE APHIWE",
+   "Admin": 12771,
+   "Grade": 12,
+   "Reg": "SH",
+   "DOB": "2003/07/22",
+   "House": "Garrett"
+ }
+]
