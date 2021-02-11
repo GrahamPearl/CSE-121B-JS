@@ -7,8 +7,8 @@ let sortByField = "Surname";
 const output = (listOfItems) => {
     let items = 0;
 
-    listOfItems.forEach(element => {  
-        let node = document.createElement('div');      
+    listOfItems.forEach(element => {
+        let node = document.createElement('div');
         node.setAttribute('class', "col-sm-3");
 
         let card = document.createElement('div');
@@ -33,13 +33,13 @@ const output = (listOfItems) => {
         cardbody.appendChild(item1);
 
         item1 = document.createElement('p');
-        item1.textContent = "Grade: " + element["Grade"] + " " + element["Reg"];
+        item1.textContent = "Grade: " + element["Grade"] + " " + element["Reg"]+" "+element["House"];
         item1.setAttribute('class', "card-text");
         cardbody.appendChild(item1);
 
         card.appendChild(cardPict);
         card.appendChild(cardbody);
-        node.appendChild(card);    
+        node.appendChild(card);
         document.querySelector('#list').appendChild(node);
     });
 }
@@ -75,17 +75,13 @@ const sortBy = () => {
         case 'byFirst':
             sortByField = "First Name";
             break;
-        case 'byAdmin':
-            sortByField = "Admin";
-            break;
-        case 'byGrade':
-            sortByField = "Grade";
-            break;
         case 'byReg':
             sortByField = "Reg";
             break;
+        case 'byHouse':
+            sortByField = "House";
+            break;
     }
-    alert('Sorting by: ' + sortByField);
 
     let filterOrder = document.querySelector('#sortByOrder').value;
 
