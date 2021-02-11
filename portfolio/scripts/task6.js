@@ -4,12 +4,32 @@
 let listOf = [];
 
 const output = (listOfItems) => {
-    listOfItems.forEach(element => {       
+    listOfItems.forEach(element => {  
+        
+        let card = document.createElement('div');   
+            card.setAttribute('class',"card text-white bg-dark mb-3");
 
-        let item = document.createElement('article');        
-        let itemData = document.createElement('h3');
-            itemData.textContent = element.Surname;        
-            item.appendChild(itemData);
+        
+        let cardbody = document.createElement('div');   
+            cardbody.setAttribute('class',"card-body");
+
+        let item1 = document.createElement('h5');   
+            item1.textContent = element["Surname"];
+            item1.setAttribute('class',"card-title");
+        cardbody.appendChild(item1);
+
+        item1 = document.createElement('p');   
+        item1.textContent = element["First Name"];
+        item1.setAttribute('class',"card-text");    
+        cardbody.appendChild(item1);    
+
+        item1 = document.createElement('p');   
+            item1.textContent = "Grade: " + element["Grade"]+" "+element["Reg"];
+            item1.setAttribute('class',"card-text");    
+            cardbody.appendChild(item1);    
+
+        //let item2 = document.createElement('p');
+        //    item2.textContent = element["First Name"];                    
                 
         /*itemData[1].textContent = element.Admin;
         itemData[2].textContent = element.Grade;
@@ -19,7 +39,12 @@ const output = (listOfItems) => {
         //itemPicture.setAttribute('src', element.Admin+".jpg")
         //itemPicture.setAttribute('alt', "Photo of "+element.Admin)
         
-        document.querySelector('#list').appendChild(item);        
+        //alert("Adding: "+element.Surname);     
+
+        
+        //cardbody.appendChild(item2);
+        card.appendChild(cardbody);
+        document.querySelector('#list').appendChild(card);        
     });
 }
 
