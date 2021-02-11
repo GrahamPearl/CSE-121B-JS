@@ -4,8 +4,7 @@
 let listOf = [];
 
 const output = (listOfItems) => {
-    listOfItems.forEach(element => {
-        alert('Loading list:');
+    listOfItems.forEach(element => {       
 
         let item = document.createElement('article');        
         let itemData = document.createElement('h3');
