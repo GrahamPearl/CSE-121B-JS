@@ -25,7 +25,7 @@ const output = (listOfItems) => {
 }
 
 alert('Loading Data')
-fetch('https://github.com/GrahamPearl/CSE-121B-JS/tree/main/portfolio/data/Main.json')
+fetch('https://grahampearl.github.io/CSE-121B-JS/portfolio/data/Main.json')
     .then(response => response.json())
     .then(list => {
         studentList = list;
