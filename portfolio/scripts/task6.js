@@ -5,14 +5,22 @@ let listOf = [];
 let sortByField = "Surname";
 
 const output = (listOfItems) => {
-    listOfItems.forEach(element => {
+    let items = 0;
+
+    listOfItems.forEach(element => {  
+        let node = document.createElement('div');      
+        node.setAttribute('class', "col-sm-3");
 
         let card = document.createElement('div');
         card.setAttribute('class', "card text-white bg-dark mb-3");
 
+        let cardPict = document.createElement("img");
+        cardPict.setAttribute('class', "card-img-top mx-auto");
+        cardPict.setAttribute('src', "./images/nophoto.png");
+        cardPict.setAttribute('alt', "Student Photo - Unavailable");
 
         let cardbody = document.createElement('div');
-        cardbody.setAttribute('class', "card-body");
+        cardbody.setAttribute('class', "card-block");
 
         let item1 = document.createElement('h5');
         item1.textContent = element["Surname"];
@@ -29,12 +37,13 @@ const output = (listOfItems) => {
         item1.setAttribute('class', "card-text");
         cardbody.appendChild(item1);
 
+        card.appendChild(cardPict);
         card.appendChild(cardbody);
-        document.querySelector('#list').appendChild(card);
+        node.appendChild(card);    
+        document.querySelector('#list').appendChild(node);
     });
 }
 
-alert('Loading Data')
 fetch('https://grahampearl.github.io/CSE-121B-JS/portfolio/data/Main.json')
     .then(response => response.json())
     .then(list => {

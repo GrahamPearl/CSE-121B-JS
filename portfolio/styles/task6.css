@@ -4,3 +4,11 @@ html {
     background-size: contain;
     background-position: center;
 }
+
+.card {
+   min-height: 150px; 
+}
+
+.card-img-top {    
+    width : 100px;
+}
