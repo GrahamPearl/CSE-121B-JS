@@ -23,8 +23,13 @@ const output = (listOfItems) => {
         cardbody.setAttribute('class', "card-block");
 
         let item1 = document.createElement('h5');
-        item1.textContent = element["Surname"];
+        item1.textContent = element["Admin"];
         item1.setAttribute('class', "card-title");
+        cardbody.appendChild(item1);
+
+        item1 = document.createElement('h6');
+        item1.textContent = element["Surname"];
+        item1.setAttribute('class', "card-subtitle");
         cardbody.appendChild(item1);
 
         item1 = document.createElement('p');
@@ -33,7 +38,7 @@ const output = (listOfItems) => {
         cardbody.appendChild(item1);
 
         item1 = document.createElement('p');
-        item1.textContent = "Grade: " + element["Grade"] + " " + element["Reg"]+" "+element["House"];
+        item1.textContent = "Grade: " + element["Grade"] + " " + element["Reg"] + " " + element["House"];
         item1.setAttribute('class', "card-text");
         cardbody.appendChild(item1);
 
@@ -109,15 +114,27 @@ const checkMatch = (item) => {
     return item[sortByField].toLowerCase().includes(filter);
 }
 
+const checkGrade = (item) => {
+    let filter = document.querySelector('#filterGrade');        
+    return item['Grade'] = ParseInt(filter);
+}
+
 const filterBy = () => {
     reset();
     output(studentList.filter(checkMatch));
 }
 
+const searchByGrade = () => {
+    reset();
+    output(studentList.filter(checkGrade));
+}
+
+
 // Step 10: Add a change event listener to the HTML element with an ID of sortBy that calls the sortBy function
 
 document.querySelector('#sortByField').addEventListener('change', sortBy);
 document.querySelector('#sortByOrder').addEventListener('change', sortBy);
+document.querySelector('#filterGrade').addEventListener('change', searchByGrade);
 
 /* STRETCH */
 
@@ -125,3 +142,4 @@ document.querySelector('#sortByOrder').addEventListener('change', sortBy);
 // This will require changes to both the HTML and the JavaScript files
 
 document.querySelector('#filterBy').addEventListener('click', filterBy);
+//document.querySelector('#findAdmin').addEventListener('click', );
