@@ -5,40 +5,30 @@ let listOf = [];
 
 const output = (listOfItems) => {
     listOfItems.forEach(element => {
-        // alert('Loading list:' + element.____)
+        alert('Loading list:');
 
-        let item = document.createElement('article');
-        let itemNameOf = document.createElement('h3');
-        let itemLocation = document.createElement('h4');
-        let itemDedication = document.createElement('h4');
-        let itemPicture = document.createElement('img');
-
-        itemNameOf.textContent = element.templeName;
-        itemLocation.textContent = element.location;
-        itemDedication.textContent = element.dedicated;
-        itemPicture.setAttribute('src', element.imageUrl)
-        itemPicture.setAttribute('alt', element.templeName)
-
-        // alert('Created assets for list:' + element.____)
-        item.appendChild(itemNameOf);
-        item.appendChild(itemLocation);
-        item.appendChild(itemDedication);
-        item.appendChild(itemPicture);
-
-        // alert('Adding to document assets for list:' + element.____)
-
-        document.querySelector('#list').appendChild(item);
-
-        // alert('Added to document assets for list:' + element.____)
+        let item = document.createElement('article');        
+        let itemData = document.createElement('h3');
+            itemData.textContent = element.Surname;        
+            item.appendChild(itemData);
+                
+        /*itemData[1].textContent = element.Admin;
+        itemData[2].textContent = element.Grade;
+        itemData[3].textContent = element.Reg;
+        itemData[4].textContent = element.House;
+        */
+        //itemPicture.setAttribute('src', element.Admin+".jpg")
+        //itemPicture.setAttribute('alt', "Photo of "+element.Admin)
+        
+        document.querySelector('#list').appendChild(item);        
     });
-
 }
 
-// alert('Loading Temples')
-fetch('https://byui-cse.github.io/cse121b-course/week05/temples.json')
+alert('Loading Data')
+fetch('https://github.com/GrahamPearl/CSE-121B-JS/tree/main/portfolio/data/Main.json')
     .then(response => response.json())
-    .then(temples => {
-        studentList = temples;
+    .then(list => {
+        studentList = list;
         output(studentList);
     });
 
@@ -46,13 +36,13 @@ fetch('https://byui-cse.github.io/cse121b-course/week05/temples.json')
 // Step 8: Declare a function named reset that clears all of the <article> elements from the HTML element with an ID of temples
 
 const reset = () => {
-    document.querySelector('#temples').innerHTML = '';
+    document.querySelector('#list').innerHTML = '';
 } 
 const compareBy = (a, b) => {
     let result = 0;
 
-    let aName = a.templeName.toLowerCase();
-    let bName = b.templeName.toLowerCase();
+    let aName = a.Admin.toLowerCase();
+    let bName = b.Admin.toLowerCase();
 
     return aName > bName ? 1 :
         bName > aName ? -1 : 0;
@@ -66,18 +56,18 @@ const sortBy = () => {
     switch (filter) {
         case 'sortAsc':
             output(studentList.sort(
-                (templeA, templeB) => compareBy(templeA, templeB)));
+                (adminA, adminB) => compareBy(adminA, adminB)));
             break;
 
         case 'sortDesc':
             output(studentList.sort(
-                (templeA, templeB) => compareBy(templeB, templeA)));
+                (adminA, adminB) => compareBy(adminB, adminA)));
             break;
 
         default:
             // using ternary operators
             output(studentList.sort(
-                (templeA, templeB) => compareBy(templeA, templeB)));
+                (adminA, adminB) => compareBy(adminA, adminB)));
             break;
     }
 }
