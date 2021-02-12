@@ -49,7 +49,9 @@ const output = (listOfItems) => {
     });
 }
 
-fetch('https://grahampearl.github.io/CSE-121B-JS/portfolio/data/Main.json')
+let link = 'https://grahampearl.github.io/CSE-121B-JS/portfolio/data/Main.json';
+
+fetch(link)
     .then(response => response.json())
     .then(list => {
         studentList = list;
