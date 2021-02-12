@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CSE 121b: Week 06 | Demonstration of Knowledge Applied</title>
+    <link href="https://fonts.googleapis.com/css?family=Kalam&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="styles/task6.css">
+        <link rel="stylesheet" href="styles/main.css">
+    
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+</head>
+
+<body>
+    <nav>
+        <ul id="menu">
+            <li><a id="toggleMenu">&equiv;</a></li>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="task2.html">Lesson 2</a></li>
+            <li><a href="task3.html">Lesson 3</a></li>
+            <li><a href="task4.html">Lesson 4</a></li>
+            <li><a href="task5.html">Lesson 5</a></li>
+            <li><a href="task6.html" class="active">Lesson 6</a></li>
+        </ul>
+    </nav>
+    <header>
+        <h1>Student Tracker</h1>                                    
+    </header>
+    <main>
+        <section>            
+            <p>
+                Admin No:
+                <input type="text" id="adminNo" name="adminNo">
+                <input type="button" id="findAdmin" value="Search For">
+            </p>            
+            <p>
+                Filter by:
+                <input type="text" id="filter" name="filter">
+                <input type="button" id="filterBy" value="Filter By">
+            </p>            
+            <p>
+                Sort by:
+                <select id="sortByField">
+                    <option value="byLast">Surname</option>
+                    <option value="byFirst">First Name</option>                    
+                    <option value="byReg">Reg</option>                    
+                    <option value="byHouse">House</option>
+                </select>            
+            </p>
+            <p>
+                Order:
+                <select id="sortByOrder">
+                    <option value="sortAsc">Ascending</option>
+                    <option value="sortDesc">Descending</option>
+                </select>
+            </p>
+            <p>
+                Grade:
+                <select id="filterGrade">                    
+                    <option value="8">Grade 8</option>
+                    <option value="9">Grade 9</option>                    
+                    <option value="10">Grade 10</option>                    
+                    <option value="11">Grade 11</option>
+                    <option value="12">Grade 12</option>
+                </select>                
+            </p>
+            <p>
+            </p>
+            </section>
+                <section>
+            <div class="container">
+            <div id="list" class="row">
+            </div>
+            </div>            
+        </section>
+        <section>
+            <div class="container">
+                <div class="row">                
+                    <label>Name:</label>
+                    <span id="name"></span>
+                    <label>Admin:</label>
+                    <ul id="admin"></ul>
+                    <label>Grade:</label>
+                    <ul id="grade"></ul>
+                    <label>Reg Class:</label>
+                    <ul id="reg-class"></ul>
+                    <label>House:</label>
+                    <dl id="house"></dl>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        &copy;<span id="year"></span> | Biography Revisited | Lesson 4
+    </footer>
+    <script src="scripts/main.js"></script>
+    <script src="scripts/task6.js"></script>
+</body>
+
+</html>

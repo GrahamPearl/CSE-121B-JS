@@ -1,0 +1,14 @@
+html {
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.card {
+   min-height: 150px; 
+}
+
+.card-img-top {    
+    width : 100px;
+}
