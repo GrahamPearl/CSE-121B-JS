@@ -111,26 +111,26 @@ const sortBy = () => {
     }
 }
 
-const checkMatch = (item) => {
-    let filter = document.querySelector('#filter').value.toLowerCase();
-    return item[sortByField].toLowerCase().includes(filter);
-}
-
-const checkGrade = (item) => {
-    let filter = document.querySelector('#filterGrade');        
-    return item['Grade'] = ParseInt(filter);
-}
-
 const filterBy = () => {
     reset();
-    output(studentList.filter(checkMatch));
+
+    let filter = document.querySelector('#filter').value.toLowerCase();
+    output(studentList.filter( item => item[sortByField].toLowerCase().includes(filter)));
 }
 
 const searchByGrade = () => {
     reset();
-    output(studentList.filter(checkGrade));
+
+    let filter = document.querySelector('#filterGrade').value;        
+    output(studentList.filter( item => (item['Grade'] === parseInt(filter)) ));
 }
 
+const searchByAdmin = () => {
+    reset(); 
+
+    let filter = document.querySelector('#adminNo').value;            
+    output(studentList.filter( item => (item['Admin'] === parseInt(filter)) ));
+}
 
 // Step 10: Add a change event listener to the HTML element with an ID of sortBy that calls the sortBy function
 
@@ -144,4 +144,4 @@ document.querySelector('#filterGrade').addEventListener('change', searchByGrade)
 // This will require changes to both the HTML and the JavaScript files
 
 document.querySelector('#filterBy').addEventListener('click', filterBy);
-//document.querySelector('#findAdmin').addEventListener('click', );
+document.querySelector('#findAdmin').addEventListener('click', searchByAdmin);
